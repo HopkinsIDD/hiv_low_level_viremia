@@ -1,0 +1,1059 @@
+var,val
+r1_minDate,"November 6, 1994"
+r1_medianDate,"March 20, 1995"
+r1_maxDate,"July 18, 1995"
+r2_minDate,"January 12, 1995"
+r2_medianDate,"January 9, 1996"
+r2_maxDate,"May 1, 1996"
+r3_minDate,"January 7, 1996"
+r3_medianDate,"November 19, 1996"
+r3_maxDate,"April 23, 1997"
+r4_minDate,"June 6, 1997"
+r4_medianDate,"November 20, 1997"
+r4_maxDate,"May 12, 1998"
+r5_minDate,"August 11, 1997"
+r5_medianDate,"August 6, 1998"
+r5_maxDate,"March 15, 1999"
+r6_minDate,"April 6, 1999"
+r6_medianDate,"September 7, 1999"
+r6_maxDate,"February 9, 2000"
+r7_minDate,"March 20, 2000"
+r7_medianDate,"August 7, 2000"
+r7_maxDate,"February 19, 2001"
+r8_minDate,"April 3, 2001"
+r8_medianDate,"October 23, 2001"
+r8_maxDate,"May 31, 2002"
+r9_minDate,"July 15, 2002"
+r9_medianDate,"January 28, 2003"
+r9_maxDate,"July 31, 2003"
+r10_minDate,"September 26, 2003"
+r10_medianDate,"April 23, 2004"
+r10_maxDate,"November 23, 2004"
+r11_minDate,"January 13, 2005"
+r11_medianDate,"October 13, 2005"
+r11_maxDate,"June 30, 2006"
+r12_minDate,"March 31, 2006"
+r12_medianDate,"June 28, 2007"
+r12_maxDate,"April 24, 2008"
+r13_minDate,"June 17, 2008"
+r13_medianDate,"March 17, 2009"
+r13_maxDate,"December 4, 2009"
+r14_minDate,"January 18, 2010"
+r14_medianDate,"September 24, 2010"
+r14_maxDate,"June 21, 2011"
+r15_minDate,"August 10, 2011"
+r15_medianDate,"April 2, 2012"
+r15_maxDate,"May 29, 2013"
+r15.1_minDate,"July 30, 2012"
+r15.1_medianDate,"September 20, 2012"
+r15.1_maxDate,"March 18, 2013"
+r16_minDate,"July 8, 2013"
+r16_medianDate,"April 7, 2014"
+r16_maxDate,"January 28, 2015"
+r17_minDate,"February 23, 2015"
+r17_medianDate,"November 3, 2015"
+r17_maxDate,"September 2, 2016"
+r18_minDate,"October 3, 2016"
+r18_medianDate,"July 17, 2017"
+r18_maxDate,"May 21, 2018"
+r19_minDate,"June 19, 2018"
+r19_medianDate,"June 20, 2019"
+r19_maxDate,"November 4, 2020"
+r20_minDate,"February 1, 2021"
+r20_medianDate,"March 4, 2022"
+r20_maxDate,"March 7, 2023"
+r1_minYear,1994
+r1_medianYear,1995
+r1_maxYear,1995
+r2_minYear,1995
+r2_medianYear,1996
+r2_maxYear,1996
+r3_minYear,1996
+r3_medianYear,1996
+r3_maxYear,1997
+r4_minYear,1997
+r4_medianYear,1997
+r4_maxYear,1998
+r5_minYear,1997
+r5_medianYear,1998
+r5_maxYear,1999
+r6_minYear,1999
+r6_medianYear,1999
+r6_maxYear,2000
+r7_minYear,2000
+r7_medianYear,2000
+r7_maxYear,2001
+r8_minYear,2001
+r8_medianYear,2001
+r8_maxYear,2002
+r9_minYear,2002
+r9_medianYear,2003
+r9_maxYear,2003
+r10_minYear,2003
+r10_medianYear,2004
+r10_maxYear,2004
+r11_minYear,2005
+r11_medianYear,2005
+r11_maxYear,2006
+r12_minYear,2006
+r12_medianYear,2007
+r12_maxYear,2008
+r13_minYear,2008
+r13_medianYear,2009
+r13_maxYear,2009
+r14_minYear,2010
+r14_medianYear,2010
+r14_maxYear,2011
+r15_minYear,2011
+r15_medianYear,2012
+r15_maxYear,2013
+r15.1_minYear,2012
+r15.1_medianYear,2012
+r15.1_maxYear,2013
+r16_minYear,2013
+r16_medianYear,2014
+r16_maxYear,2015
+r17_minYear,2015
+r17_medianYear,2015
+r17_maxYear,2016
+r18_minYear,2016
+r18_medianYear,2017
+r18_maxYear,2018
+r19_minYear,2018
+r19_medianYear,2019
+r19_maxYear,2020
+r20_minYear,2021
+r20_medianYear,2022
+r20_maxYear,2023
+n_par,"93,507"
+n_par_r16_plus,"43,458"
+n_r1_par,"12,372"
+n_r2_par,"12,092"
+n_r3_par,"13,285"
+n_r4_par,"13,137"
+n_r5_par,"11,050"
+n_r6_par,"14,660"
+n_r7_par,"14,131"
+n_r8_par,"15,655"
+n_r9_par,"12,004"
+n_r10_par,"11,834"
+n_r11_par,"14,268"
+n_r12_par,"15,419"
+n_r13_par,"14,707"
+n_r14_par,"15,940"
+n_r15_par,"17,167"
+n_r15.1_par,"5,069"
+n_r16_par,"18,005"
+n_r17_par,"19,343"
+n_r18_par,"19,815"
+n_r19_par,"19,338"
+n_r20_par,"15,944"
+n_plhiv,"15,878"
+n_plhiv_r16_plus,"7,665"
+n_r1_plhiv,"1,959"
+n_r2_plhiv,"1,787"
+n_r3_plhiv,"1,857"
+n_r4_plhiv,"1,912"
+n_r5_plhiv,"1,504"
+n_r6_plhiv,"1,825"
+n_r7_plhiv,"1,838"
+n_r8_plhiv,"1,903"
+n_r9_plhiv,"1,477"
+n_r10_plhiv,"1,482"
+n_r11_plhiv,"1,659"
+n_r12_plhiv,"1,820"
+n_r13_plhiv,"1,832"
+n_r14_plhiv,"2,035"
+n_r15_plhiv,"3,524"
+n_r15.1_plhiv,"1,761"
+n_r16_plhiv,"3,438"
+n_r17_plhiv,"3,660"
+n_r18_plhiv,"3,686"
+n_r19_plhiv,"3,391"
+n_r20_plhiv,"2,892"
+n_r1_viremic,733
+n_r2_viremic,268
+n_r3_viremic,268
+n_r4_viremic,360
+n_r6_viremic,38
+n_r7_viremic,31
+n_r8_viremic,40
+n_r9_viremic,120
+n_r10_viremic,119
+n_r11_viremic,147
+n_r12_viremic,172
+n_r13_viremic,"1,153"
+n_r14_viremic,82
+n_r15_viremic,"1,363"
+n_r15.1_viremic,27
+n_r16_viremic,"1,631"
+n_r17_viremic,"1,160"
+n_r18_viremic,826
+n_r19_viremic,535
+n_r20_viremic,335
+n_llv,918
+n_llv_r16_plus,538
+p_llv_r16_plus,7.02\\%
+n_r1_llv,37
+n_r2_llv,11
+n_r3_llv,11
+n_r4_llv,8
+n_r6_llv,2
+n_r7_llv,4
+n_r8_llv,2
+n_r9_llv,5
+n_r10_llv,10
+n_r11_llv,13
+n_r12_llv,11
+n_r13_llv,155
+n_r14_llv,5
+n_r15_llv,105
+n_r15.1_llv,1
+n_r16_llv,167
+n_r17_llv,134
+n_r18_llv,98
+n_r19_llv,82
+n_r20_llv,57
+n_missing_finalhiv_r16_plus,82
+n_missing_vl_r16_plus,243
+p_missing_vl_r16_plus,1.4\\%
+n_uniq_tx_llv_vl_pairs,109
+q050_uniq_tx_llv_vl_pairs_years,1.74
+q025_uniq_tx_llv_vl_pairs_years,1.33
+q975_uniq_tx_llv_vl_pairs_years,3.05
+n_uniq_tx_llv_vl_pairs_0_to_40_copies,67
+n_uniq_tx_llv_vl_pairs_40_to_200_copies,4
+n_uniq_tx_llv_vl_pairs_200_to_1000_copies,10
+n_uniq_tx_llv_vl_pairs_1000_to_inf_copies,28
+p_uniq_tx_llv_vl_pairs_0_to_40_copies,61.5\\%
+p_uniq_tx_llv_vl_pairs_40_to_200_copies,3.7\\%
+p_uniq_tx_llv_vl_pairs_200_to_1000_copies,9.2\\%
+p_uniq_tx_llv_vl_pairs_1000_to_inf_copies,25.7\\%
+n_uniq_tx_supr_vl_pairs,"2,891"
+q050_uniq_tx_supr_vl_pairs_years,1.72
+q025_uniq_tx_supr_vl_pairs_years,1.35
+q975_uniq_tx_supr_vl_pairs_years,3.09
+n_uniq_tx_supr_vl_pairs_0_to_40_copies,"2,763"
+n_uniq_tx_supr_vl_pairs_40_to_200_copies,12
+n_uniq_tx_supr_vl_pairs_200_to_1000_copies,40
+n_uniq_tx_supr_vl_pairs_1000_to_inf_copies,76
+p_uniq_tx_supr_vl_pairs_0_to_40_copies,95.6\\%
+p_uniq_tx_supr_vl_pairs_40_to_200_copies,0.4\\%
+p_uniq_tx_supr_vl_pairs_200_to_1000_copies,1.4\\%
+p_uniq_tx_supr_vl_pairs_1000_to_inf_copies,2.6\\%
+n_donor-all_recipient-all_couples,"1,668"
+n_donor-all_recipient-all_years,"6,629"
+q050_donor-all_recipient-all_years,1.4
+q025_donor-all_recipient-all_years,0.7
+q975_donor-all_recipient-all_years,3.2
+n_donor-all_recipient-all_seroconversion,332
+n_donor-all_recipient-exclusivelymonogamous_couples,917
+n_donor-all_recipient-exclusivelymonogamous_years,"3,196"
+q050_donor-all_recipient-exclusivelymonogamous_years,1.4
+q025_donor-all_recipient-exclusivelymonogamous_years,0.6
+q975_donor-all_recipient-exclusivelymonogamous_years,2.1
+n_donor-all_recipient-exclusivelymonogamous_seroconversion,176
+n_merged_donor-noacute_recipient-exclusivelymonogamous_couples,650
+n_merged_donor-noacute_recipient-exclusivelymonogamous_years,"1,702"
+q050_merged_donor-noacute_recipient-exclusivelymonogamous_years,1.8
+q000_merged_donor-noacute_recipient-exclusivelymonogamous_years,0.4
+q100_merged_donor-noacute_recipient-exclusivelymonogamous_years,16.3
+q050_merged_donor-noacute_recipient-exclusivelymonogamous_interval,1.5
+q000_merged_donor-noacute_recipient-exclusivelymonogamous_interval,0.2
+q100_merged_donor-noacute_recipient-exclusivelymonogamous_interval,3.2
+q000_merged_donor-noacute_recipient-exclusivelymonogamous_vl_testing_interval,0.0
+q050_merged_donor-noacute_recipient-exclusivelymonogamous_vl_testing_interval,0.0
+q100_merged_donor-noacute_recipient-exclusivelymonogamous_vl_testing_interval,2.0
+n_merged_donor-noacute_recipient-exclusivelymonogamous_seroconversion,111
+n_merged_donor-noacute_recipient-exclusivelymonogamous_seroconversion_per_100_year,6.5
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_couples,57
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_years,119
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_seroconversion,nine
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_seroconversion_per_100_year,7.6
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_1000+_to_200-1000_seroconversion,two
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_200-1000_to_1000+_seroconversion,one
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_200-1000_to_bd_seroconversion,four
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_200-1000_to_missing_seroconversion,two
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_tx_200-1000_to_any_couples,23
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_tx_200-1000_to_any_years,39.1
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_tx_200-1000_to_any_seroconversion,four
+n_merged_donor-noacute_recipient-exclusivelymonogamous_llv_tx_200-1000_to_any_seroconversion_per_100_year,10.2
+demographic_table,"\\begin{tabular}{lccccc}
+\\toprule
+&&\\multicolumn{4}{c}{\\textbf{Index partners in serodifferent couples}}\\\\
+\\cline{3-6}
+&&&\\multicolumn{3}{c}{\\textbf{w/ monogamous partners}}\\\\
+\\cline{4-6}
+&&&&\\multicolumn{2}{c}{\\textbf{in transmisison analysis}}\\\\
+\\cline{5-6}
+&\\textbf{Participants w/ HIV}&\\textbf{All}&\\textbf{All}&\\textbf{All}&\\textbf{w/ seroconverting partners}\\\\
+\\midrule
+\\textbf{}&15,878&1,668&917&650&111\\\\\\textbf{Sex}&&&&&\\\\\\hspace{3mm}F&10,183 (64.1\\%)&775 (46.5\\%)&282 (30.8\\%)&219 (33.7\\%)&25 (22.5\\%)\\\\\\hspace{3mm}M&5,695 (35.9\\%)&893 (53.5\\%)&635 (69.2\\%)&431 (66.3\\%)&86 (77.5\\%)\\\\\\textbf{Community type}&&&&&\\\\\\hspace{3mm}Agrarian&7,601 (47.9\\%)&977 (58.6\\%)&554 (60.4\\%)&371 (57.1\\%)&72 (64.9\\%)\\\\\\hspace{3mm}Fishing&4,128 (26.0\\%)&258 (15.5\\%)&115 (12.5\\%)&107 (16.5\\%)&7 (6.3\\%)\\\\\\hspace{3mm}Trading&4,149 (26.1\\%)&433 (26.0\\%)&248 (27.0\\%)&172 (26.5\\%)&32 (28.8\\%)\\\\\\textbf{Age (years)}&&&&&\\\\\\hspace{3mm}15-24&3,206 (20.2\\%)&197 (11.8\\%)&82 (8.9\\%)&66 (10.2\\%)&10 (9.0\\%)\\\\\\hspace{3mm}25-34&7,427 (46.8\\%)&776 (46.5\\%)&411 (44.8\\%)&280 (43.1\\%)&63 (56.8\\%)\\\\\\hspace{3mm}35-60&5,245 (33.0\\%)&695 (41.7\\%)&424 (46.2\\%)&304 (46.8\\%)&38 (34.2\\%)\\\\
+\\bottomrule
+\\end{tabular}"
+q0.025_r16_200_1000_copies_prev_among_par,0.77\\%
+q0.025_r17_200_1000_copies_prev_among_par,0.61\\%
+q0.025_r18_200_1000_copies_prev_among_par,0.44\\%
+q0.025_r19_200_1000_copies_prev_among_par,0.44\\%
+q0.025_r20_200_1000_copies_prev_among_par,0.33\\%
+q0.025_r16_200_1000_copies_prev_among_viremic,9.3\\%
+q0.025_r17_200_1000_copies_prev_among_viremic,10.4\\%
+q0.025_r18_200_1000_copies_prev_among_viremic,9.5\\%
+q0.025_r19_200_1000_copies_prev_among_viremic,12.6\\%
+q0.025_r20_200_1000_copies_prev_among_viremic,12.7\\%
+q0.25_r16_200_1000_copies_prev_among_par,0.88\\%
+q0.25_r17_200_1000_copies_prev_among_par,0.72\\%
+q0.25_r18_200_1000_copies_prev_among_par,0.53\\%
+q0.25_r19_200_1000_copies_prev_among_par,0.52\\%
+q0.25_r20_200_1000_copies_prev_among_par,0.4\\%
+q0.25_r16_200_1000_copies_prev_among_viremic,10.4\\%
+q0.25_r17_200_1000_copies_prev_among_viremic,11.9\\%
+q0.25_r18_200_1000_copies_prev_among_viremic,11.2\\%
+q0.25_r19_200_1000_copies_prev_among_viremic,14.4\\%
+q0.25_r20_200_1000_copies_prev_among_viremic,15.0\\%
+q0.5_r16_200_1000_copies_prev_among_par,0.95\\%
+q0.5_r17_200_1000_copies_prev_among_par,0.78\\%
+q0.5_r18_200_1000_copies_prev_among_par,0.57\\%
+q0.5_r19_200_1000_copies_prev_among_par,0.56\\%
+q0.5_r20_200_1000_copies_prev_among_par,0.44\\%
+q0.5_r16_200_1000_copies_prev_among_viremic,11.0\\%
+q0.5_r17_200_1000_copies_prev_among_viremic,12.7\\%
+q0.5_r18_200_1000_copies_prev_among_viremic,12.0\\%
+q0.5_r19_200_1000_copies_prev_among_viremic,15.6\\%
+q0.5_r20_200_1000_copies_prev_among_viremic,16.3\\%
+q0.75_r16_200_1000_copies_prev_among_par,1.0\\%
+q0.75_r17_200_1000_copies_prev_among_par,0.84\\%
+q0.75_r18_200_1000_copies_prev_among_par,0.62\\%
+q0.75_r19_200_1000_copies_prev_among_par,0.62\\%
+q0.75_r20_200_1000_copies_prev_among_par,0.49\\%
+q0.75_r16_200_1000_copies_prev_among_viremic,11.7\\%
+q0.75_r17_200_1000_copies_prev_among_viremic,13.4\\%
+q0.75_r18_200_1000_copies_prev_among_viremic,12.8\\%
+q0.75_r19_200_1000_copies_prev_among_viremic,16.7\\%
+q0.75_r20_200_1000_copies_prev_among_viremic,17.7\\%
+q0.975_r16_200_1000_copies_prev_among_par,1.1\\%
+q0.975_r17_200_1000_copies_prev_among_par,0.96\\%
+q0.975_r18_200_1000_copies_prev_among_par,0.71\\%
+q0.975_r19_200_1000_copies_prev_among_par,0.73\\%
+q0.975_r20_200_1000_copies_prev_among_par,0.58\\%
+q0.975_r16_200_1000_copies_prev_among_viremic,13.0\\%
+q0.975_r17_200_1000_copies_prev_among_viremic,15.0\\%
+q0.975_r18_200_1000_copies_prev_among_viremic,14.5\\%
+q0.975_r19_200_1000_copies_prev_among_viremic,19.0\\%
+q0.975_r20_200_1000_copies_prev_among_viremic,20.7\\%
+p24_cutoff,0.03
+gp41_cutoff,0.06
+n_couple_linkage_dat,65
+p_couple_linkage_dat,58.6\\%
+n_couple_linked,55
+p_couple_linked,84.6\\%
+n_llv_linkage_dat,seven
+n_llv_linked,five
+n_llv_likely_linked,six
+p_llv_linked,71.4\\%
+n_llv_linked_both,two
+n_llv_linked_only_gp41,three
+R78014_R04130_gp41_d_min,0.06
+llv_table,"\\begin{tabular}{lccccccccc}
+\\toprule
+&\\multicolumn{3}{c}{\\textbf{Index}}&&\\multicolumn{2}{c}{\\textbf{Partner}}&&\\multicolumn{2}{c}{\\textbf{Linkage}}\\\\
+\\cline{2-4}\\cline{9-10}
+\\textbf{Couple}&\\textbf{Treatment}&\\multicolumn{2}{c}{\\textbf{Copies/mL (date)}}&&\\multicolumn{2}{c}{\\textbf{HIV seropositivity}}&&\\textbf{p24}&\\textbf{gp41}\\\\
+\\midrule
+R78014$\\rightarrow$R04130&pre-treatment&700 (1998-02)&2,900 (1999-05)&&N (1998-02)&P (1999-05)&&unavailable&likely linked\\\\
+R41593$\\rightarrow$R64619&pre-treatment&600 (2003-12)&unavailable&&N (2003-12)&P (2005-05)&&linked&linked\\\\
+R86742$\\rightarrow$R92219&pre-treatment&500 (2005-07)&unavailable&&N (2005-07)&P (2007-03)&&linked&linked\\\\
+R44128$\\rightarrow$R70749&treated&400 (2007-10)&$<40$ (2009-07)&&N (2007-10)&P (2009-07)&&unavailable&linked\\\\
+R58579$\\rightarrow$R12514&pre-treatment&5,000 (2013-07)&500 (2015-07)&&N (2013-07)&P (2015-08)&&unlinked&linked\\\\
+R07545$\\rightarrow$R11340&treated&500 (2014-08)&$<40$ (2015-12)&&N (2014-08)&P (2015-12)&&unlinked&unlinked\\\\
+R52200$\\rightarrow$R34998&treated&800 (2014-11)&$<40$ (2016-06)&&N (2014-11)&P (2016-06)&&unavailable&unavailable\\\\
+R72179$\\rightarrow$R38357&treated&69,800 (2014-12)&400 (2016-07)&&N (2014-12)&P (2016-07)&&unlinked&linked\\\\
+R37494$\\rightarrow$R17417&treated&800 (2017-06)&$<40$ (2019-05)&&N (2017-06)&P (2019-06)&&unavailable&unavailable\\\\
+\\bottomrule
+\\end{tabular}"
+q50_main_analysis_mu0,"12,593"
+q0.025_main_analysis_mu_trans_rate_per_100_year,10.6
+q0.025_main_analysis_max_trans_rate_per_100_year,11.1
+q0.025_main_analysis_1000_trans_rate_per_100_year,1.4
+q0.025_main_analysis_200_trans_rate_per_100_year,0.29
+q0.25_main_analysis_mu_trans_rate_per_100_year,12.6
+q0.25_main_analysis_max_trans_rate_per_100_year,13.7
+q0.25_main_analysis_1000_trans_rate_per_100_year,2.3
+q0.25_main_analysis_200_trans_rate_per_100_year,0.48
+q0.5_main_analysis_mu_trans_rate_per_100_year,13.7
+q0.5_main_analysis_max_trans_rate_per_100_year,15.3
+q0.5_main_analysis_1000_trans_rate_per_100_year,3.0
+q0.5_main_analysis_200_trans_rate_per_100_year,0.65
+q0.75_main_analysis_mu_trans_rate_per_100_year,14.9
+q0.75_main_analysis_max_trans_rate_per_100_year,17.2
+q0.75_main_analysis_1000_trans_rate_per_100_year,4.0
+q0.75_main_analysis_200_trans_rate_per_100_year,0.9
+q0.975_main_analysis_mu_trans_rate_per_100_year,17.1
+q0.975_main_analysis_max_trans_rate_per_100_year,21.4
+q0.975_main_analysis_1000_trans_rate_per_100_year,7.5
+q0.975_main_analysis_200_trans_rate_per_100_year,2.1
+q0.025_main_analysis_max_v_mu_trans_rr,1.0
+q0.025_main_analysis_1000_v_mu_trans_rr,0.12
+q0.025_main_analysis_200_v_mu_trans_rr,0.02
+q0.25_main_analysis_max_v_mu_trans_rr,1.0
+q0.25_main_analysis_1000_v_mu_trans_rr,0.16
+q0.25_main_analysis_200_v_mu_trans_rr,0.03
+q0.5_main_analysis_max_v_mu_trans_rr,1.1
+q0.5_main_analysis_1000_v_mu_trans_rr,0.21
+q0.5_main_analysis_200_v_mu_trans_rr,0.05
+q0.75_main_analysis_max_v_mu_trans_rr,1.2
+q0.75_main_analysis_1000_v_mu_trans_rr,0.29
+q0.75_main_analysis_200_v_mu_trans_rr,0.06
+q0.975_main_analysis_max_v_mu_trans_rr,1.6
+q0.975_main_analysis_1000_v_mu_trans_rr,0.62
+q0.975_main_analysis_200_v_mu_trans_rr,0.17
+q0.5_main_analysis_max_v_mu_trans_rr_percent,107\\%
+q0.5_main_analysis_1000_v_mu_trans_rr_percent,21\\%
+q0.5_main_analysis_200_v_mu_trans_rr_percent,5\\%
+q0.025_main_analysis_extra_trans_rate_per_100_year,0.57
+q0.25_main_analysis_extra_trans_rate_per_100_year,0.88
+q0.5_main_analysis_extra_trans_rate_per_100_year,1.1
+q0.75_main_analysis_extra_trans_rate_per_100_year,1.3
+q0.975_main_analysis_extra_trans_rate_per_100_year,1.8
+q0.5_main_analysis_intra_extra_rr_parity,335
+q50_sex_predictor_mean_mu0,"12,597"
+q0.025_sex_predictor_mean_mu_trans_rate_per_100_year,10.7
+q0.025_sex_predictor_mean_max_trans_rate_per_100_year,10.9
+q0.025_sex_predictor_mean_1000_trans_rate_per_100_year,1.7
+q0.025_sex_predictor_mean_200_trans_rate_per_100_year,0.35
+q0.25_sex_predictor_mean_mu_trans_rate_per_100_year,12.9
+q0.25_sex_predictor_mean_max_trans_rate_per_100_year,13.5
+q0.25_sex_predictor_mean_1000_trans_rate_per_100_year,2.9
+q0.25_sex_predictor_mean_200_trans_rate_per_100_year,0.63
+q0.5_sex_predictor_mean_mu_trans_rate_per_100_year,14.3
+q0.5_sex_predictor_mean_max_trans_rate_per_100_year,15.2
+q0.5_sex_predictor_mean_1000_trans_rate_per_100_year,4.0
+q0.5_sex_predictor_mean_200_trans_rate_per_100_year,0.89
+q0.75_sex_predictor_mean_mu_trans_rate_per_100_year,15.8
+q0.75_sex_predictor_mean_max_trans_rate_per_100_year,17.2
+q0.75_sex_predictor_mean_1000_trans_rate_per_100_year,5.3
+q0.75_sex_predictor_mean_200_trans_rate_per_100_year,1.3
+q0.975_sex_predictor_mean_mu_trans_rate_per_100_year,19.8
+q0.975_sex_predictor_mean_max_trans_rate_per_100_year,22.7
+q0.975_sex_predictor_mean_1000_trans_rate_per_100_year,9.5
+q0.975_sex_predictor_mean_200_trans_rate_per_100_year,3.1
+q0.025_sex_predictor_mean_max_v_mu_trans_rr,1.0
+q0.025_sex_predictor_mean_1000_v_mu_trans_rr,0.13
+q0.025_sex_predictor_mean_200_v_mu_trans_rr,0.03
+q0.25_sex_predictor_mean_max_v_mu_trans_rr,1.0
+q0.25_sex_predictor_mean_1000_v_mu_trans_rr,0.2
+q0.25_sex_predictor_mean_200_v_mu_trans_rr,0.04
+q0.5_sex_predictor_mean_max_v_mu_trans_rr,1.0
+q0.5_sex_predictor_mean_1000_v_mu_trans_rr,0.26
+q0.5_sex_predictor_mean_200_v_mu_trans_rr,0.06
+q0.75_sex_predictor_mean_max_v_mu_trans_rr,1.1
+q0.75_sex_predictor_mean_1000_v_mu_trans_rr,0.37
+q0.75_sex_predictor_mean_200_v_mu_trans_rr,0.09
+q0.975_sex_predictor_mean_max_v_mu_trans_rr,1.4
+q0.975_sex_predictor_mean_1000_v_mu_trans_rr,0.75
+q0.975_sex_predictor_mean_200_v_mu_trans_rr,0.24
+q0.5_sex_predictor_mean_max_v_mu_trans_rr_percent,102\\%
+q0.5_sex_predictor_mean_1000_v_mu_trans_rr_percent,26\\%
+q0.5_sex_predictor_mean_200_v_mu_trans_rr_percent,6\\%
+q0.025_sex_predictor_mean_extra_trans_rate_per_100_year,0.59
+q0.25_sex_predictor_mean_extra_trans_rate_per_100_year,0.9
+q0.5_sex_predictor_mean_extra_trans_rate_per_100_year,1.1
+q0.75_sex_predictor_mean_extra_trans_rate_per_100_year,1.3
+q0.975_sex_predictor_mean_extra_trans_rate_per_100_year,1.8
+q0.5_sex_predictor_mean_intra_extra_rr_parity,242
+q50_sex_predictor_female_mu0,"12,597"
+q0.025_sex_predictor_female_mu_trans_rate_per_100_year,5.3
+q0.025_sex_predictor_female_max_trans_rate_per_100_year,6.8
+q0.025_sex_predictor_female_1000_trans_rate_per_100_year,0.54
+q0.025_sex_predictor_female_200_trans_rate_per_100_year,0.11
+q0.25_sex_predictor_female_mu_trans_rate_per_100_year,8.3
+q0.25_sex_predictor_female_max_trans_rate_per_100_year,11.2
+q0.25_sex_predictor_female_1000_trans_rate_per_100_year,1.1
+q0.25_sex_predictor_female_200_trans_rate_per_100_year,0.22
+q0.5_sex_predictor_female_mu_trans_rate_per_100_year,10.2
+q0.5_sex_predictor_female_max_trans_rate_per_100_year,14.9
+q0.5_sex_predictor_female_1000_trans_rate_per_100_year,1.6
+q0.5_sex_predictor_female_200_trans_rate_per_100_year,0.33
+q0.75_sex_predictor_female_mu_trans_rate_per_100_year,12.2
+q0.75_sex_predictor_female_max_trans_rate_per_100_year,19.5
+q0.75_sex_predictor_female_1000_trans_rate_per_100_year,2.4
+q0.75_sex_predictor_female_200_trans_rate_per_100_year,0.53
+q0.975_sex_predictor_female_mu_trans_rate_per_100_year,16.7
+q0.975_sex_predictor_female_max_trans_rate_per_100_year,33.9
+q0.975_sex_predictor_female_1000_trans_rate_per_100_year,7.1
+q0.975_sex_predictor_female_200_trans_rate_per_100_year,2.8
+q0.025_sex_predictor_female_max_v_mu_trans_rr,1.0
+q0.025_sex_predictor_female_1000_v_mu_trans_rr,0.09
+q0.025_sex_predictor_female_200_v_mu_trans_rr,0.02
+q0.25_sex_predictor_female_max_v_mu_trans_rr,1.1
+q0.25_sex_predictor_female_1000_v_mu_trans_rr,0.11
+q0.25_sex_predictor_female_200_v_mu_trans_rr,0.02
+q0.5_sex_predictor_female_max_v_mu_trans_rr,1.3
+q0.5_sex_predictor_female_1000_v_mu_trans_rr,0.14
+q0.5_sex_predictor_female_200_v_mu_trans_rr,0.03
+q0.75_sex_predictor_female_max_v_mu_trans_rr,1.8
+q0.75_sex_predictor_female_1000_v_mu_trans_rr,0.21
+q0.75_sex_predictor_female_200_v_mu_trans_rr,0.04
+q0.975_sex_predictor_female_max_v_mu_trans_rr,4.2
+q0.975_sex_predictor_female_1000_v_mu_trans_rr,0.88
+q0.975_sex_predictor_female_200_v_mu_trans_rr,0.34
+q0.5_sex_predictor_female_max_v_mu_trans_rr_percent,133\\%
+q0.5_sex_predictor_female_1000_v_mu_trans_rr_percent,14\\%
+q0.5_sex_predictor_female_200_v_mu_trans_rr_percent,3\\%
+q0.025_sex_predictor_female_extra_trans_rate_per_100_year,0.59
+q0.25_sex_predictor_female_extra_trans_rate_per_100_year,0.9
+q0.5_sex_predictor_female_extra_trans_rate_per_100_year,1.1
+q0.75_sex_predictor_female_extra_trans_rate_per_100_year,1.3
+q0.975_sex_predictor_female_extra_trans_rate_per_100_year,1.8
+q0.5_sex_predictor_female_intra_extra_rr_parity,660
+q50_sex_predictor_male_mu0,"12,597"
+q0.025_sex_predictor_male_mu_trans_rate_per_100_year,11.0
+q0.025_sex_predictor_male_max_trans_rate_per_100_year,11.2
+q0.025_sex_predictor_male_1000_trans_rate_per_100_year,1.8
+q0.025_sex_predictor_male_200_trans_rate_per_100_year,0.38
+q0.25_sex_predictor_male_mu_trans_rate_per_100_year,13.2
+q0.25_sex_predictor_male_max_trans_rate_per_100_year,13.6
+q0.25_sex_predictor_male_1000_trans_rate_per_100_year,3.3
+q0.25_sex_predictor_male_200_trans_rate_per_100_year,0.72
+q0.5_sex_predictor_male_mu_trans_rate_per_100_year,14.5
+q0.5_sex_predictor_male_max_trans_rate_per_100_year,15.1
+q0.5_sex_predictor_male_1000_trans_rate_per_100_year,4.5
+q0.5_sex_predictor_male_200_trans_rate_per_100_year,1.0
+q0.75_sex_predictor_male_mu_trans_rate_per_100_year,15.8
+q0.75_sex_predictor_male_max_trans_rate_per_100_year,16.8
+q0.75_sex_predictor_male_1000_trans_rate_per_100_year,6.0
+q0.75_sex_predictor_male_200_trans_rate_per_100_year,1.5
+q0.975_sex_predictor_male_mu_trans_rate_per_100_year,18.4
+q0.975_sex_predictor_male_max_trans_rate_per_100_year,20.8
+q0.975_sex_predictor_male_1000_trans_rate_per_100_year,9.8
+q0.975_sex_predictor_male_200_trans_rate_per_100_year,3.1
+q0.025_sex_predictor_male_max_v_mu_trans_rr,1.0
+q0.025_sex_predictor_male_1000_v_mu_trans_rr,0.14
+q0.025_sex_predictor_male_200_v_mu_trans_rr,0.03
+q0.25_sex_predictor_male_max_v_mu_trans_rr,1.0
+q0.25_sex_predictor_male_1000_v_mu_trans_rr,0.22
+q0.25_sex_predictor_male_200_v_mu_trans_rr,0.05
+q0.5_sex_predictor_male_max_v_mu_trans_rr,1.0
+q0.5_sex_predictor_male_1000_v_mu_trans_rr,0.3
+q0.5_sex_predictor_male_200_v_mu_trans_rr,0.07
+q0.75_sex_predictor_male_max_v_mu_trans_rr,1.1
+q0.75_sex_predictor_male_1000_v_mu_trans_rr,0.43
+q0.75_sex_predictor_male_200_v_mu_trans_rr,0.1
+q0.975_sex_predictor_male_max_v_mu_trans_rr,1.4
+q0.975_sex_predictor_male_1000_v_mu_trans_rr,0.73
+q0.975_sex_predictor_male_200_v_mu_trans_rr,0.23
+q0.5_sex_predictor_male_max_v_mu_trans_rr_percent,101\\%
+q0.5_sex_predictor_male_1000_v_mu_trans_rr_percent,30\\%
+q0.5_sex_predictor_male_200_v_mu_trans_rr_percent,7\\%
+q0.025_sex_predictor_male_extra_trans_rate_per_100_year,0.59
+q0.25_sex_predictor_male_extra_trans_rate_per_100_year,0.9
+q0.5_sex_predictor_male_extra_trans_rate_per_100_year,1.1
+q0.75_sex_predictor_male_extra_trans_rate_per_100_year,1.3
+q0.975_sex_predictor_male_extra_trans_rate_per_100_year,1.8
+q0.5_sex_predictor_male_intra_extra_rr_parity,206
+q50_estC_mu0,"12,604"
+q0.025_estC_mu_trans_rate_per_100_year,10.6
+q0.025_estC_max_trans_rate_per_100_year,11.1
+q0.025_estC_1000_trans_rate_per_100_year,1.4
+q0.025_estC_200_trans_rate_per_100_year,0.29
+q0.25_estC_mu_trans_rate_per_100_year,12.7
+q0.25_estC_max_trans_rate_per_100_year,13.8
+q0.25_estC_1000_trans_rate_per_100_year,2.3
+q0.25_estC_200_trans_rate_per_100_year,0.48
+q0.5_estC_mu_trans_rate_per_100_year,13.8
+q0.5_estC_max_trans_rate_per_100_year,15.3
+q0.5_estC_1000_trans_rate_per_100_year,3.0
+q0.5_estC_200_trans_rate_per_100_year,0.65
+q0.75_estC_mu_trans_rate_per_100_year,14.9
+q0.75_estC_max_trans_rate_per_100_year,17.2
+q0.75_estC_1000_trans_rate_per_100_year,4.0
+q0.75_estC_200_trans_rate_per_100_year,0.9
+q0.975_estC_mu_trans_rate_per_100_year,17.2
+q0.975_estC_max_trans_rate_per_100_year,21.4
+q0.975_estC_1000_trans_rate_per_100_year,7.6
+q0.975_estC_200_trans_rate_per_100_year,2.1
+q0.025_estC_max_v_mu_trans_rr,1.0
+q0.025_estC_1000_v_mu_trans_rr,0.12
+q0.025_estC_200_v_mu_trans_rr,0.02
+q0.25_estC_max_v_mu_trans_rr,1.0
+q0.25_estC_1000_v_mu_trans_rr,0.16
+q0.25_estC_200_v_mu_trans_rr,0.03
+q0.5_estC_max_v_mu_trans_rr,1.1
+q0.5_estC_1000_v_mu_trans_rr,0.21
+q0.5_estC_200_v_mu_trans_rr,0.04
+q0.75_estC_max_v_mu_trans_rr,1.2
+q0.75_estC_1000_v_mu_trans_rr,0.28
+q0.75_estC_200_v_mu_trans_rr,0.06
+q0.975_estC_max_v_mu_trans_rr,1.6
+q0.975_estC_1000_v_mu_trans_rr,0.61
+q0.975_estC_200_v_mu_trans_rr,0.17
+q0.5_estC_max_v_mu_trans_rr_percent,107\\%
+q0.5_estC_1000_v_mu_trans_rr_percent,21\\%
+q0.5_estC_200_v_mu_trans_rr_percent,4\\%
+q0.025_estC_extra_trans_rate_per_100_year,0.57
+q0.25_estC_extra_trans_rate_per_100_year,0.89
+q0.5_estC_extra_trans_rate_per_100_year,1.1
+q0.75_estC_extra_trans_rate_per_100_year,1.3
+q0.975_estC_extra_trans_rate_per_100_year,1.8
+q0.5_estC_intra_extra_rr_parity,335
+q50_artificially_constrained_mu0,"12,605"
+q0.025_artificially_constrained_mu_trans_rate_per_100_year,9.6
+q0.025_artificially_constrained_max_trans_rate_per_100_year,11.1
+q0.025_artificially_constrained_1000_trans_rate_per_100_year,1.1
+q0.025_artificially_constrained_200_trans_rate_per_100_year,0.22
+q0.25_artificially_constrained_mu_trans_rate_per_100_year,11.8
+q0.25_artificially_constrained_max_trans_rate_per_100_year,13.8
+q0.25_artificially_constrained_1000_trans_rate_per_100_year,1.8
+q0.25_artificially_constrained_200_trans_rate_per_100_year,0.37
+q0.5_artificially_constrained_mu_trans_rate_per_100_year,13.0
+q0.5_artificially_constrained_max_trans_rate_per_100_year,15.5
+q0.5_artificially_constrained_1000_trans_rate_per_100_year,2.3
+q0.5_artificially_constrained_200_trans_rate_per_100_year,0.5
+q0.75_artificially_constrained_mu_trans_rate_per_100_year,14.1
+q0.75_artificially_constrained_max_trans_rate_per_100_year,17.5
+q0.75_artificially_constrained_1000_trans_rate_per_100_year,3.0
+q0.75_artificially_constrained_200_trans_rate_per_100_year,0.67
+q0.975_artificially_constrained_mu_trans_rate_per_100_year,16.3
+q0.975_artificially_constrained_max_trans_rate_per_100_year,22.2
+q0.975_artificially_constrained_1000_trans_rate_per_100_year,5.5
+q0.975_artificially_constrained_200_trans_rate_per_100_year,1.4
+q0.025_artificially_constrained_max_v_mu_trans_rr,1.0
+q0.025_artificially_constrained_1000_v_mu_trans_rr,0.11
+q0.025_artificially_constrained_200_v_mu_trans_rr,0.02
+q0.25_artificially_constrained_max_v_mu_trans_rr,1.1
+q0.25_artificially_constrained_1000_v_mu_trans_rr,0.14
+q0.25_artificially_constrained_200_v_mu_trans_rr,0.03
+q0.5_artificially_constrained_max_v_mu_trans_rr,1.2
+q0.5_artificially_constrained_1000_v_mu_trans_rr,0.17
+q0.5_artificially_constrained_200_v_mu_trans_rr,0.04
+q0.75_artificially_constrained_max_v_mu_trans_rr,1.3
+q0.75_artificially_constrained_1000_v_mu_trans_rr,0.22
+q0.75_artificially_constrained_200_v_mu_trans_rr,0.05
+q0.975_artificially_constrained_max_v_mu_trans_rr,2.0
+q0.975_artificially_constrained_1000_v_mu_trans_rr,0.45
+q0.975_artificially_constrained_200_v_mu_trans_rr,0.11
+q0.5_artificially_constrained_max_v_mu_trans_rr_percent,115\\%
+q0.5_artificially_constrained_1000_v_mu_trans_rr_percent,17\\%
+q0.5_artificially_constrained_200_v_mu_trans_rr_percent,4\\%
+q0.025_artificially_constrained_extra_trans_rate_per_100_year,0.81
+q0.25_artificially_constrained_extra_trans_rate_per_100_year,1.2
+q0.5_artificially_constrained_extra_trans_rate_per_100_year,1.4
+q0.75_artificially_constrained_extra_trans_rate_per_100_year,1.7
+q0.975_artificially_constrained_extra_trans_rate_per_100_year,2.2
+q0.5_artificially_constrained_intra_extra_rr_parity,580
+q50_no_genetic_constraints_mu0,"12,607"
+q0.025_no_genetic_constraints_mu_trans_rate_per_100_year,10.9
+q0.025_no_genetic_constraints_max_trans_rate_per_100_year,11.1
+q0.025_no_genetic_constraints_1000_trans_rate_per_100_year,1.8
+q0.025_no_genetic_constraints_200_trans_rate_per_100_year,0.36
+q0.25_no_genetic_constraints_mu_trans_rate_per_100_year,13.1
+q0.25_no_genetic_constraints_max_trans_rate_per_100_year,13.4
+q0.25_no_genetic_constraints_1000_trans_rate_per_100_year,3.3
+q0.25_no_genetic_constraints_200_trans_rate_per_100_year,0.73
+q0.5_no_genetic_constraints_mu_trans_rate_per_100_year,14.3
+q0.5_no_genetic_constraints_max_trans_rate_per_100_year,14.8
+q0.5_no_genetic_constraints_1000_trans_rate_per_100_year,4.9
+q0.5_no_genetic_constraints_200_trans_rate_per_100_year,1.1
+q0.75_no_genetic_constraints_mu_trans_rate_per_100_year,15.5
+q0.75_no_genetic_constraints_max_trans_rate_per_100_year,16.6
+q0.75_no_genetic_constraints_1000_trans_rate_per_100_year,7.5
+q0.75_no_genetic_constraints_200_trans_rate_per_100_year,2.0
+q0.975_no_genetic_constraints_mu_trans_rate_per_100_year,17.9
+q0.975_no_genetic_constraints_max_trans_rate_per_100_year,20.4
+q0.975_no_genetic_constraints_1000_trans_rate_per_100_year,11.8
+q0.975_no_genetic_constraints_200_trans_rate_per_100_year,5.0
+q0.025_no_genetic_constraints_max_v_mu_trans_rr,1.0
+q0.025_no_genetic_constraints_1000_v_mu_trans_rr,0.13
+q0.025_no_genetic_constraints_200_v_mu_trans_rr,0.03
+q0.25_no_genetic_constraints_max_v_mu_trans_rr,1.0
+q0.25_no_genetic_constraints_1000_v_mu_trans_rr,0.22
+q0.25_no_genetic_constraints_200_v_mu_trans_rr,0.05
+q0.5_no_genetic_constraints_max_v_mu_trans_rr,1.0
+q0.5_no_genetic_constraints_1000_v_mu_trans_rr,0.33
+q0.5_no_genetic_constraints_200_v_mu_trans_rr,0.08
+q0.75_no_genetic_constraints_max_v_mu_trans_rr,1.1
+q0.75_no_genetic_constraints_1000_v_mu_trans_rr,0.55
+q0.75_no_genetic_constraints_200_v_mu_trans_rr,0.15
+q0.975_no_genetic_constraints_max_v_mu_trans_rr,1.4
+q0.975_no_genetic_constraints_1000_v_mu_trans_rr,0.92
+q0.975_no_genetic_constraints_200_v_mu_trans_rr,0.4
+q0.5_no_genetic_constraints_max_v_mu_trans_rr_percent,101\\%
+q0.5_no_genetic_constraints_1000_v_mu_trans_rr_percent,33\\%
+q0.5_no_genetic_constraints_200_v_mu_trans_rr_percent,8\\%
+q0.025_no_genetic_constraints_extra_trans_rate_per_100_year,0.03
+q0.25_no_genetic_constraints_extra_trans_rate_per_100_year,0.26
+q0.5_no_genetic_constraints_extra_trans_rate_per_100_year,0.51
+q0.75_no_genetic_constraints_extra_trans_rate_per_100_year,0.79
+q0.975_no_genetic_constraints_extra_trans_rate_per_100_year,1.5
+q0.5_no_genetic_constraints_intra_extra_rr_parity,80
+q50_low_art_tn_assumption_mu0,"12,604"
+q0.025_low_art_tn_assumption_mu_trans_rate_per_100_year,10.2
+q0.025_low_art_tn_assumption_max_trans_rate_per_100_year,10.4
+q0.025_low_art_tn_assumption_1000_trans_rate_per_100_year,1.5
+q0.025_low_art_tn_assumption_200_trans_rate_per_100_year,0.3
+q0.25_low_art_tn_assumption_mu_trans_rate_per_100_year,12.4
+q0.25_low_art_tn_assumption_max_trans_rate_per_100_year,13.1
+q0.25_low_art_tn_assumption_1000_trans_rate_per_100_year,2.4
+q0.25_low_art_tn_assumption_200_trans_rate_per_100_year,0.52
+q0.5_low_art_tn_assumption_mu_trans_rate_per_100_year,13.6
+q0.5_low_art_tn_assumption_max_trans_rate_per_100_year,14.9
+q0.5_low_art_tn_assumption_1000_trans_rate_per_100_year,3.3
+q0.5_low_art_tn_assumption_200_trans_rate_per_100_year,0.73
+q0.75_low_art_tn_assumption_mu_trans_rate_per_100_year,14.8
+q0.75_low_art_tn_assumption_max_trans_rate_per_100_year,16.8
+q0.75_low_art_tn_assumption_1000_trans_rate_per_100_year,4.7
+q0.75_low_art_tn_assumption_200_trans_rate_per_100_year,1.1
+q0.975_low_art_tn_assumption_mu_trans_rate_per_100_year,17.0
+q0.975_low_art_tn_assumption_max_trans_rate_per_100_year,20.9
+q0.975_low_art_tn_assumption_1000_trans_rate_per_100_year,10.9
+q0.975_low_art_tn_assumption_200_trans_rate_per_100_year,6.6
+q0.025_low_art_tn_assumption_max_v_mu_trans_rr,1.0
+q0.025_low_art_tn_assumption_1000_v_mu_trans_rr,0.12
+q0.025_low_art_tn_assumption_200_v_mu_trans_rr,0.03
+q0.25_low_art_tn_assumption_max_v_mu_trans_rr,1.0
+q0.25_low_art_tn_assumption_1000_v_mu_trans_rr,0.17
+q0.25_low_art_tn_assumption_200_v_mu_trans_rr,0.04
+q0.5_low_art_tn_assumption_max_v_mu_trans_rr,1.0
+q0.5_low_art_tn_assumption_1000_v_mu_trans_rr,0.23
+q0.5_low_art_tn_assumption_200_v_mu_trans_rr,0.05
+q0.75_low_art_tn_assumption_max_v_mu_trans_rr,1.2
+q0.75_low_art_tn_assumption_1000_v_mu_trans_rr,0.35
+q0.75_low_art_tn_assumption_200_v_mu_trans_rr,0.08
+q0.975_low_art_tn_assumption_max_v_mu_trans_rr,1.6
+q0.975_low_art_tn_assumption_1000_v_mu_trans_rr,0.99
+q0.975_low_art_tn_assumption_200_v_mu_trans_rr,0.59
+q0.5_low_art_tn_assumption_max_v_mu_trans_rr_percent,105\\%
+q0.5_low_art_tn_assumption_1000_v_mu_trans_rr_percent,23\\%
+q0.5_low_art_tn_assumption_200_v_mu_trans_rr_percent,5\\%
+q0.025_low_art_tn_assumption_extra_trans_rate_per_100_year,0.57
+q0.25_low_art_tn_assumption_extra_trans_rate_per_100_year,0.88
+q0.5_low_art_tn_assumption_extra_trans_rate_per_100_year,1.1
+q0.75_low_art_tn_assumption_extra_trans_rate_per_100_year,1.3
+q0.975_low_art_tn_assumption_extra_trans_rate_per_100_year,1.8
+q0.5_low_art_tn_assumption_intra_extra_rr_parity,285
+q50_high_art_tn_assumption_mu0,"12,602"
+q0.025_high_art_tn_assumption_mu_trans_rate_per_100_year,10.6
+q0.025_high_art_tn_assumption_max_trans_rate_per_100_year,11.3
+q0.025_high_art_tn_assumption_1000_trans_rate_per_100_year,1.4
+q0.025_high_art_tn_assumption_200_trans_rate_per_100_year,0.28
+q0.25_high_art_tn_assumption_mu_trans_rate_per_100_year,12.6
+q0.25_high_art_tn_assumption_max_trans_rate_per_100_year,13.9
+q0.25_high_art_tn_assumption_1000_trans_rate_per_100_year,2.2
+q0.25_high_art_tn_assumption_200_trans_rate_per_100_year,0.46
+q0.5_high_art_tn_assumption_mu_trans_rate_per_100_year,13.7
+q0.5_high_art_tn_assumption_max_trans_rate_per_100_year,15.5
+q0.5_high_art_tn_assumption_1000_trans_rate_per_100_year,2.8
+q0.5_high_art_tn_assumption_200_trans_rate_per_100_year,0.61
+q0.75_high_art_tn_assumption_mu_trans_rate_per_100_year,14.9
+q0.75_high_art_tn_assumption_max_trans_rate_per_100_year,17.4
+q0.75_high_art_tn_assumption_1000_trans_rate_per_100_year,3.7
+q0.75_high_art_tn_assumption_200_trans_rate_per_100_year,0.83
+q0.975_high_art_tn_assumption_mu_trans_rate_per_100_year,17.0
+q0.975_high_art_tn_assumption_max_trans_rate_per_100_year,21.7
+q0.975_high_art_tn_assumption_1000_trans_rate_per_100_year,6.4
+q0.975_high_art_tn_assumption_200_trans_rate_per_100_year,1.6
+q0.025_high_art_tn_assumption_max_v_mu_trans_rr,1.0
+q0.025_high_art_tn_assumption_1000_v_mu_trans_rr,0.12
+q0.025_high_art_tn_assumption_200_v_mu_trans_rr,0.02
+q0.25_high_art_tn_assumption_max_v_mu_trans_rr,1.0
+q0.25_high_art_tn_assumption_1000_v_mu_trans_rr,0.16
+q0.25_high_art_tn_assumption_200_v_mu_trans_rr,0.03
+q0.5_high_art_tn_assumption_max_v_mu_trans_rr,1.1
+q0.5_high_art_tn_assumption_1000_v_mu_trans_rr,0.2
+q0.5_high_art_tn_assumption_200_v_mu_trans_rr,0.04
+q0.75_high_art_tn_assumption_max_v_mu_trans_rr,1.2
+q0.75_high_art_tn_assumption_1000_v_mu_trans_rr,0.26
+q0.75_high_art_tn_assumption_200_v_mu_trans_rr,0.06
+q0.975_high_art_tn_assumption_max_v_mu_trans_rr,1.7
+q0.975_high_art_tn_assumption_1000_v_mu_trans_rr,0.51
+q0.975_high_art_tn_assumption_200_v_mu_trans_rr,0.13
+q0.5_high_art_tn_assumption_max_v_mu_trans_rr_percent,109\\%
+q0.5_high_art_tn_assumption_1000_v_mu_trans_rr_percent,20\\%
+q0.5_high_art_tn_assumption_200_v_mu_trans_rr_percent,4\\%
+q0.025_high_art_tn_assumption_extra_trans_rate_per_100_year,0.57
+q0.25_high_art_tn_assumption_extra_trans_rate_per_100_year,0.89
+q0.5_high_art_tn_assumption_extra_trans_rate_per_100_year,1.1
+q0.75_high_art_tn_assumption_extra_trans_rate_per_100_year,1.3
+q0.975_high_art_tn_assumption_extra_trans_rate_per_100_year,1.9
+q0.5_high_art_tn_assumption_intra_extra_rr_parity,357
+q50_no_saturation_mu0,"12,600"
+q0.025_no_saturation_mu_trans_rate_per_100_year,0.84
+q0.025_no_saturation_max_trans_rate_per_100_year,648.2
+q0.025_no_saturation_1000_trans_rate_per_100_year,0.07
+q0.025_no_saturation_200_trans_rate_per_100_year,0.01
+q0.25_no_saturation_mu_trans_rate_per_100_year,1.0
+q0.25_no_saturation_max_trans_rate_per_100_year,791.1
+q0.25_no_saturation_1000_trans_rate_per_100_year,0.08
+q0.25_no_saturation_200_trans_rate_per_100_year,0.02
+q0.5_no_saturation_mu_trans_rate_per_100_year,1.1
+q0.5_no_saturation_max_trans_rate_per_100_year,869.6
+q0.5_no_saturation_1000_trans_rate_per_100_year,0.09
+q0.5_no_saturation_200_trans_rate_per_100_year,0.02
+q0.75_no_saturation_mu_trans_rate_per_100_year,1.3
+q0.75_no_saturation_max_trans_rate_per_100_year,950.4
+q0.75_no_saturation_1000_trans_rate_per_100_year,0.1
+q0.75_no_saturation_200_trans_rate_per_100_year,0.02
+q0.975_no_saturation_mu_trans_rate_per_100_year,1.5
+q0.975_no_saturation_max_trans_rate_per_100_year,1122.8
+q0.975_no_saturation_1000_trans_rate_per_100_year,0.12
+q0.975_no_saturation_200_trans_rate_per_100_year,0.02
+q0.025_no_saturation_max_v_mu_trans_rr,751.7
+q0.025_no_saturation_1000_v_mu_trans_rr,0.08
+q0.025_no_saturation_200_v_mu_trans_rr,0.02
+q0.25_no_saturation_max_v_mu_trans_rr,758.3
+q0.25_no_saturation_1000_v_mu_trans_rr,0.08
+q0.25_no_saturation_200_v_mu_trans_rr,0.02
+q0.5_no_saturation_max_v_mu_trans_rr,761.3
+q0.5_no_saturation_1000_v_mu_trans_rr,0.08
+q0.5_no_saturation_200_v_mu_trans_rr,0.02
+q0.75_no_saturation_max_v_mu_trans_rr,764.3
+q0.75_no_saturation_1000_v_mu_trans_rr,0.08
+q0.75_no_saturation_200_v_mu_trans_rr,0.02
+q0.975_no_saturation_max_v_mu_trans_rr,769.6
+q0.975_no_saturation_1000_v_mu_trans_rr,0.08
+q0.975_no_saturation_200_v_mu_trans_rr,0.02
+q0.5_no_saturation_max_v_mu_trans_rr_percent,76132\\%
+q0.5_no_saturation_1000_v_mu_trans_rr_percent,8\\%
+q0.5_no_saturation_200_v_mu_trans_rr_percent,2\\%
+q0.025_no_saturation_extra_trans_rate_per_100_year,2.3
+q0.25_no_saturation_extra_trans_rate_per_100_year,2.8
+q0.5_no_saturation_extra_trans_rate_per_100_year,3.2
+q0.75_no_saturation_extra_trans_rate_per_100_year,3.5
+q0.975_no_saturation_extra_trans_rate_per_100_year,4.3
+q0.5_no_saturation_intra_extra_rr_parity,35082
+q50_pre-treatment_mu0,"12,593"
+q0.025_pre-treatment_mu_trans_rate_per_100_year,10.6
+q0.025_pre-treatment_max_trans_rate_per_100_year,10.7
+q0.025_pre-treatment_1000_trans_rate_per_100_year,1.7
+q0.025_pre-treatment_200_trans_rate_per_100_year,0.35
+q0.25_pre-treatment_mu_trans_rate_per_100_year,13.0
+q0.25_pre-treatment_max_trans_rate_per_100_year,13.5
+q0.25_pre-treatment_1000_trans_rate_per_100_year,2.8
+q0.25_pre-treatment_200_trans_rate_per_100_year,0.61
+q0.5_pre-treatment_mu_trans_rate_per_100_year,14.3
+q0.5_pre-treatment_max_trans_rate_per_100_year,15.3
+q0.5_pre-treatment_1000_trans_rate_per_100_year,3.7
+q0.5_pre-treatment_200_trans_rate_per_100_year,0.84
+q0.75_pre-treatment_mu_trans_rate_per_100_year,15.5
+q0.75_pre-treatment_max_trans_rate_per_100_year,17.0
+q0.75_pre-treatment_1000_trans_rate_per_100_year,5.7
+q0.75_pre-treatment_200_trans_rate_per_100_year,1.4
+q0.975_pre-treatment_mu_trans_rate_per_100_year,17.9
+q0.975_pre-treatment_max_trans_rate_per_100_year,21.2
+q0.975_pre-treatment_1000_trans_rate_per_100_year,12.1
+q0.975_pre-treatment_200_trans_rate_per_100_year,9.3
+q0.025_pre-treatment_max_v_mu_trans_rr,1.0
+q0.025_pre-treatment_1000_v_mu_trans_rr,0.13
+q0.025_pre-treatment_200_v_mu_trans_rr,0.03
+q0.25_pre-treatment_max_v_mu_trans_rr,1.0
+q0.25_pre-treatment_1000_v_mu_trans_rr,0.19
+q0.25_pre-treatment_200_v_mu_trans_rr,0.04
+q0.5_pre-treatment_max_v_mu_trans_rr,1.0
+q0.5_pre-treatment_1000_v_mu_trans_rr,0.25
+q0.5_pre-treatment_200_v_mu_trans_rr,0.06
+q0.75_pre-treatment_max_v_mu_trans_rr,1.1
+q0.75_pre-treatment_1000_v_mu_trans_rr,0.4
+q0.75_pre-treatment_200_v_mu_trans_rr,0.1
+q0.975_pre-treatment_max_v_mu_trans_rr,1.5
+q0.975_pre-treatment_1000_v_mu_trans_rr,1.0
+q0.975_pre-treatment_200_v_mu_trans_rr,0.79
+q0.5_pre-treatment_max_v_mu_trans_rr_percent,103\\%
+q0.5_pre-treatment_1000_v_mu_trans_rr_percent,25\\%
+q0.5_pre-treatment_200_v_mu_trans_rr_percent,6\\%
+q0.025_pre-treatment_extra_trans_rate_per_100_year,0.52
+q0.25_pre-treatment_extra_trans_rate_per_100_year,0.84
+q0.5_pre-treatment_extra_trans_rate_per_100_year,1.0
+q0.75_pre-treatment_extra_trans_rate_per_100_year,1.3
+q0.975_pre-treatment_extra_trans_rate_per_100_year,1.8
+q0.5_pre-treatment_intra_extra_rr_parity,242
+q50_sigmoid_mu0,"12,592"
+q0.025_sigmoid_mu_trans_rate_per_100_year,8.4
+q0.025_sigmoid_max_trans_rate_per_100_year,13.5
+q0.025_sigmoid_1000_trans_rate_per_100_year,1.8
+q0.025_sigmoid_200_trans_rate_per_100_year,0.31
+q0.25_sigmoid_mu_trans_rate_per_100_year,10.2
+q0.25_sigmoid_max_trans_rate_per_100_year,18.6
+q0.25_sigmoid_1000_trans_rate_per_100_year,2.9
+q0.25_sigmoid_200_trans_rate_per_100_year,0.89
+q0.5_sigmoid_mu_trans_rate_per_100_year,11.4
+q0.5_sigmoid_max_trans_rate_per_100_year,22.4
+q0.5_sigmoid_1000_trans_rate_per_100_year,3.5
+q0.5_sigmoid_200_trans_rate_per_100_year,1.3
+q0.75_sigmoid_mu_trans_rate_per_100_year,12.6
+q0.75_sigmoid_max_trans_rate_per_100_year,28.1
+q0.75_sigmoid_1000_trans_rate_per_100_year,4.2
+q0.75_sigmoid_200_trans_rate_per_100_year,1.7
+q0.975_sigmoid_mu_trans_rate_per_100_year,15.1
+q0.975_sigmoid_max_trans_rate_per_100_year,43.9
+q0.975_sigmoid_1000_trans_rate_per_100_year,5.9
+q0.975_sigmoid_200_trans_rate_per_100_year,2.7
+q0.025_sigmoid_max_v_mu_trans_rr,1.1
+q0.025_sigmoid_1000_v_mu_trans_rr,0.15
+q0.025_sigmoid_200_v_mu_trans_rr,0.02
+q0.25_sigmoid_max_v_mu_trans_rr,1.5
+q0.25_sigmoid_1000_v_mu_trans_rr,0.26
+q0.25_sigmoid_200_v_mu_trans_rr,0.08
+q0.5_sigmoid_max_v_mu_trans_rr,1.9
+q0.5_sigmoid_1000_v_mu_trans_rr,0.31
+q0.5_sigmoid_200_v_mu_trans_rr,0.12
+q0.75_sigmoid_max_v_mu_trans_rr,2.7
+q0.75_sigmoid_1000_v_mu_trans_rr,0.37
+q0.75_sigmoid_200_v_mu_trans_rr,0.16
+q0.975_sigmoid_max_v_mu_trans_rr,4.6
+q0.975_sigmoid_1000_v_mu_trans_rr,0.49
+q0.975_sigmoid_200_v_mu_trans_rr,0.25
+q0.5_sigmoid_max_v_mu_trans_rr_percent,194\\%
+q0.5_sigmoid_1000_v_mu_trans_rr_percent,31\\%
+q0.5_sigmoid_200_v_mu_trans_rr_percent,12\\%
+q0.025_sigmoid_extra_trans_rate_per_100_year,0.55
+q0.25_sigmoid_extra_trans_rate_per_100_year,0.86
+q0.5_sigmoid_extra_trans_rate_per_100_year,1.1
+q0.75_sigmoid_extra_trans_rate_per_100_year,1.3
+q0.975_sigmoid_extra_trans_rate_per_100_year,1.8
+q0.5_sigmoid_intra_extra_rr_parity,149
+fit_vl_param_table,"\\begin{tabular}{lC{1cm}C{1cm}C{1cm}C{1cm}C{1cm}C{1cm}C{1cm}C{1cm}C{1cm}}
+\\toprule
+&\\multicolumn{9}{c}{\\textbf{Parameter (95\\% HPD)}}\\\\
+\\cline{2-10}
+\\textbf{Model}&\\textbf{$\\pi$}&\\textbf{$\\gamma$}&\\textbf{$\\mu_0$}&\\textbf{$\\Omega_\\mu$}&\\textbf{$\\sigma_0$}&\\textbf{$\\Omega_\\sigma$}&\\textbf{$\\theta$}&\\textbf{$\\mu_\\text{ART}$}&\\textbf{$\\sigma_\\text{ART}$}\\\\
+\\midrule
+1. Main analysis&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.46)&0.94 (0.88, 0.98)&2.62 (1.89, 4.0)&0.36 (0.06, 1.57)\\\\
+2. Sex predictor Mean&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.47)&0.94 (0.88, 0.98)&2.62 (1.85, 4.11)&0.35 (0.05, 1.61)\\\\
+3. Estimated c&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.46)&0.94 (0.88, 0.98)&2.61 (1.83, 3.88)&0.37 (0.06, 1.56)\\\\
+4. Artificially constrained&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.46)&0.94 (0.88, 0.98)&2.61 (1.85, 4.03)&0.36 (0.05, 1.59)\\\\
+5. No genetic constraints&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.13)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.46)&0.94 (0.88, 0.98)&2.62 (1.9, 4.07)&0.36 (0.03, 1.57)\\\\
+6. Low ART-TN assumption&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.46)&0.94 (0.88, 0.98)&2.62 (1.93, 4.24)&0.35 (0.06, 1.6)\\\\
+7. High ART-TN assumption&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.36, 0.46)&0.94 (0.88, 0.98)&2.61 (1.84, 4.07)&0.37 (0.06, 1.6)\\\\
+8. No saturation&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.36, 0.47)&0.94 (0.88, 0.98)&2.62 (1.9, 3.88)&0.35 (0.04, 1.58)\\\\
+9. Pre-treatment participants only&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.48)&0.94 (0.88, 0.98)&2.62 (1.89, 4.09)&0.35 (5.0$\\times10^{-3}$, 1.53)\\\\
+10. Sigmoidal transmission&0.06 (0.05, 0.07)&0.12 (0.11, 0.13)&4.1 (4.08, 4.12)&0.7 (0.68, 0.73)&0.49 (0.47, 0.51)&0.41 (0.35, 0.47)&0.94 (0.88, 0.98)&2.62 (1.9, 4.02)&0.34 (0.02, 1.6)\\\\
+\\bottomrule
+\\end{tabular}"
+fit_trans_param_table,"\\begin{tabular}{lC{2.5cm}C{2cm}C{2cm}C{2cm}}
+\\toprule
+&\\multicolumn{4}{c}{\\textbf{Parameter (95\\% HPD)}}\\\\
+\\cline{2-5}
+\\textbf{Model}&\\textbf{$c$}&\\textbf{$\\rho_\\text{est.}$}&\\textbf{$\\rho_\\text{prod.}$}&\\textbf{$\\beta_\\text{extra}$}\\\\
+\\midrule
+1. Main analysis&1.0 (1.0, 1.0)&2.2$\\times10^{-4}$ (7.6$\\times10^{-5}$, 9.6$\\times10^{-4}$)&1.4$\\times10^{-3}$ (1.0$\\times10^{-3}$, 2.0$\\times10^{-3}$)&0.01 (5.7$\\times10^{-3}$, 0.02)\\\\
+2. Sex predictor Mean&1.0 (1.0, 1.0)&3.0$\\times10^{-4}$ (9.4$\\times10^{-5}$, 1.4$\\times10^{-3}$)&1.4$\\times10^{-3}$ (1.0$\\times10^{-3}$, 2.1$\\times10^{-3}$)&0.01 (5.9$\\times10^{-3}$, 0.02)\\\\
+2. Sex predictor Female&1.0 (1.0, 1.0)&1.1$\\times10^{-4}$ (2.1$\\times10^{-5}$, 2.1$\\times10^{-3}$)&1.4$\\times10^{-3}$ (6.3$\\times10^{-4}$, 3.1$\\times10^{-3}$)&0.01 (5.9$\\times10^{-3}$, 0.02)\\\\
+2. Sex predictor Male&1.0 (1.0, 1.0)&3.6$\\times10^{-4}$ (1.0$\\times10^{-4}$, 1.3$\\times10^{-3}$)&1.4$\\times10^{-3}$ (1.0$\\times10^{-3}$, 1.9$\\times10^{-3}$)&0.01 (5.9$\\times10^{-3}$, 0.02)\\\\
+3. Estimated c&0.73 (0.11, 4.72)&3.1$\\times10^{-4}$ (3.6$\\times10^{-5}$, 2.9$\\times10^{-3}$)&1.4$\\times10^{-3}$ (1.0$\\times10^{-3}$, 2.0$\\times10^{-3}$)&0.01 (5.7$\\times10^{-3}$, 0.02)\\\\
+4. Artificially constrained&1.0 (1.0, 1.0)&1.6$\\times10^{-4}$ (5.6$\\times10^{-5}$, 6.0$\\times10^{-4}$)&1.4$\\times10^{-3}$ (1.0$\\times10^{-3}$, 2.1$\\times10^{-3}$)&0.01 (8.1$\\times10^{-3}$, 0.02)\\\\
+5. No genetic constraints&1.0 (1.0, 1.0)&4.0$\\times10^{-4}$ (1.0$\\times10^{-4}$, 2.5$\\times10^{-3}$)&1.4$\\times10^{-3}$ (1.0$\\times10^{-3}$, 1.9$\\times10^{-3}$)&5.1$\\times10^{-3}$ (3.3$\\times10^{-4}$, 0.01)\\\\
+6. Low ART-TN assumption&1.0 (1.0, 1.0)&2.5$\\times10^{-4}$ (8.1$\\times10^{-5}$, 4.5$\\times10^{-3}$)&1.4$\\times10^{-3}$ (9.6$\\times10^{-4}$, 1.9$\\times10^{-3}$)&0.01 (5.7$\\times10^{-3}$, 0.02)\\\\
+7. High ART-TN assumption&1.0 (1.0, 1.0)&2.0$\\times10^{-4}$ (7.2$\\times10^{-5}$, 7.2$\\times10^{-4}$)&1.4$\\times10^{-3}$ (1.0$\\times10^{-3}$, 2.0$\\times10^{-3}$)&0.01 (5.7$\\times10^{-3}$, 0.02)\\\\
+8. No saturation&1.0 (1.0, 1.0)&8.4$\\times10^{-9}$ (6.2$\\times10^{-9}$, 1.1$\\times10^{-8}$)&1.0 (1.0, 1.0)&0.03 (0.02, 0.04)\\\\
+9. Pre-treatment participants only&1.0 (1.0, 1.0)&2.8$\\times10^{-4}$ (9.2$\\times10^{-5}$, 7.9$\\times10^{-3}$)&1.4$\\times10^{-3}$ (9.9$\\times10^{-4}$, 2.0$\\times10^{-3}$)&0.01 (5.2$\\times10^{-3}$, 0.02)\\\\
+\\midrule
+&\\textbf{$v_{50}$}&\\textbf{$k$}&\\textbf{$\\beta_\\text{max}$}\\\\
+\\midrule
+10. Sigmoidal transmission&4.08 (3.19, 5.58)&0.69 (0.41, 1.36)&0.23 (0.14, 0.53)&0.01 (5.5$\\times10^{-3}$, 0.02)\\\\
+\\bottomrule
+\\end{tabular}"
+fit_trans_rate_table,"\\begin{tabular}{lccc}
+\\toprule
+&\\multicolumn{3}{c}{\\textbf{Viral load (copies/mL)}}\\\\
+\\cline{2-4}
+\\textbf{Model}&\\textbf{200}&\\textbf{1,000}&\\textbf{12,593}\\\\
+\\midrule
+1. Main analysis&0.65 (0.29, 2.13)&2.97 (1.41, 7.46)&13.72 (10.57, 17.13)\\\\
+2. Sex predictor Mean&0.89 (0.35, 3.06)&3.96 (1.68, 9.51)&14.27 (10.71, 19.83)\\\\
+2. Sex predictor Female&0.33 (0.11, 2.79)&1.57 (0.54, 7.14)&10.16 (5.31, 16.71)\\\\
+2. Sex predictor Male&1.03 (0.38, 3.1)&4.5 (1.83, 9.84)&14.46 (11.04, 18.41)\\\\
+3. Estimated c&0.65 (0.29, 2.12)&2.97 (1.43, 7.58)&13.77 (10.58, 17.2)\\\\
+4. Artificially constrained&0.5 (0.22, 1.36)&2.32 (1.09, 5.51)&12.99 (9.61, 16.27)\\\\
+5. No genetic constraints&1.14 (0.36, 5.01)&4.88 (1.75, 11.84)&14.25 (10.9, 17.92)\\\\
+6. Low ART-TN assumption&0.73 (0.3, 6.62)&3.3 (1.47, 10.86)&13.59 (10.16, 17.04)\\\\
+7. High ART-TN assumption&0.61 (0.28, 1.65)&2.82 (1.36, 6.36)&13.73 (10.61, 17.01)\\\\
+8. No saturation&0.02 (0.01, 0.02)&0.09 (0.07, 0.12)&1.14 (0.84, 1.49)\\\\
+9. Pre-treatment participants only&0.84 (0.35, 9.27)&3.75 (1.67, 12.15)&14.26 (10.59, 17.88)\\\\
+10. Sigmoidal transmission&1.3 (0.31, 2.66)&3.5 (1.75, 5.86)&11.38 (8.4, 15.11)\\\\
+\\bottomrule
+\\end{tabular}"
+fit_trans_rate_compare_table,"\\begin{tabular}{lccc}
+\\toprule
+\\textbf{Model}&\\textbf{ELPD}&\\textbf{ELPD $\\Delta$}&\\textbf{SE $\\Delta$}\\\\
+\\midrule
+10. Sigmoidal transmission&-325.49&0.0&0.0\\\\
+3. Estimated c&-327.31&-1.81&1.6\\\\
+1. Main analysis&-327.34&-1.84&1.6\\\\
+8. No saturation&-371.09&-45.6&10.06\\\\
+\\bottomrule
+\\end{tabular}"
+q0.025_sampled_trans_risk_1yr,0.5
+q0.25_sampled_trans_risk_1yr,0.9
+q0.5_sampled_trans_risk_1yr,1.1
+q0.75_sampled_trans_risk_1yr,1.4
+q0.975_sampled_trans_risk_1yr,2.0
+q0.025_sampled_trans_risk_2yr,2.4
+q0.25_sampled_trans_risk_2yr,3.5
+q0.5_sampled_trans_risk_2yr,4.2
+q0.75_sampled_trans_risk_2yr,5.0
+q0.975_sampled_trans_risk_2yr,6.8
+q0.025_prop_trans_risk_90,2.7\\%
+q0.25_prop_trans_risk_90,5.1\\%
+q0.5_prop_trans_risk_90,6.7\\%
+q0.75_prop_trans_risk_90,8.6\\%
+q0.975_prop_trans_risk_90,12.8\\%
+q0.025_prop_rebounded_1yr,9\\%
+q0.25_prop_rebounded_1yr,15\\%
+q0.5_prop_rebounded_1yr,18\\%
+q0.75_prop_rebounded_1yr,21\\%
+q0.975_prop_rebounded_1yr,28\\%
+q0.025_prop_trans_risk_rebounded_1yr,83\\%
+q0.25_prop_trans_risk_rebounded_1yr,92\\%
+q0.5_prop_trans_risk_rebounded_1yr,95\\%
+q0.75_prop_trans_risk_rebounded_1yr,97\\%
+q0.975_prop_trans_risk_rebounded_1yr,99\\%
+q0.025_0.0007881700615_fixed_trans_risk,0.67
+q0.25_0.0007881700615_fixed_trans_risk,1.02
+q0.5_0.0007881700615_fixed_trans_risk,1.23
+q0.75_0.0007881700615_fixed_trans_risk,1.46
+q0.975_0.0007881700615_fixed_trans_risk,1.99
+q0.025_0.00097719_fixed_trans_risk,0.91
+q0.25_0.00097719_fixed_trans_risk,1.26
+q0.5_0.00097719_fixed_trans_risk,1.49
+q0.75_0.00097719_fixed_trans_risk,1.73
+q0.975_0.00097719_fixed_trans_risk,2.35
+q0.025_0.00118023_fixed_trans_risk,1.16
+q0.25_0.00118023_fixed_trans_risk,1.52
+q0.5_0.00118023_fixed_trans_risk,1.8
+q0.75_0.00118023_fixed_trans_risk,2.05
+q0.975_0.00118023_fixed_trans_risk,2.61
+q0.025_0.00139952_fixed_trans_risk,1.28
+q0.25_0.00139952_fixed_trans_risk,1.76
+q0.5_0.00139952_fixed_trans_risk,2.03
+q0.75_0.00139952_fixed_trans_risk,2.31
+q0.975_0.00139952_fixed_trans_risk,2.95
+q0.025_0.00163791_fixed_trans_risk,1.52
+q0.25_0.00163791_fixed_trans_risk,2.02
+q0.5_0.00163791_fixed_trans_risk,2.32
+q0.75_0.00163791_fixed_trans_risk,2.63
+q0.975_0.00163791_fixed_trans_risk,3.34
+q0.025_0.00189903_fixed_trans_risk,1.79
+q0.25_0.00189903_fixed_trans_risk,2.32
+q0.5_0.00189903_fixed_trans_risk,2.62
+q0.75_0.00189903_fixed_trans_risk,2.96
+q0.975_0.00189903_fixed_trans_risk,3.64
+q0.025_0.00218769_fixed_trans_risk,2.08
+q0.25_0.00218769_fixed_trans_risk,2.59
+q0.5_0.00218769_fixed_trans_risk,2.92
+q0.75_0.00218769_fixed_trans_risk,3.3
+q0.975_0.00218769_fixed_trans_risk,4.08
+q0.025_0.00251039_fixed_trans_risk,2.32
+q0.25_0.00251039_fixed_trans_risk,2.88
+q0.5_0.00251039_fixed_trans_risk,3.23
+q0.75_0.00251039_fixed_trans_risk,3.61
+q0.975_0.00251039_fixed_trans_risk,4.41
+q0.025_omega_cease_per_year,0.19
+q0.25_omega_cease_per_year,0.23
+q0.5_omega_cease_per_year,0.26
+q0.75_omega_cease_per_year,0.29
+q0.975_omega_cease_per_year,0.36
+q0.025_risk_failure_per_year,17
+q0.25_risk_failure_per_year,21
+q0.5_risk_failure_per_year,23
+q0.75_risk_failure_per_year,25
+q0.975_risk_failure_per_year,30

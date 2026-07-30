@@ -1,0 +1,55 @@
+param,definition
+##### SHARED TIME INVARIANT VARIABLES #####
+omega,"lambda data, params, config: np.array([0,params['omega2']])"
+##### INDIVIDUAL LEVEL TIME INVARIATE VARIABLES #####
+# pre-treatment set point viral load
+sp,"lambda data, params, config: scipy.stats.norm.ppf(config['random_draws'][(config['N']*0):(config['N']*1)], loc=4.1, scale=0.7)"
+# factor by which sp is reduced post-rebound
+delta_rp,"lambda data, params, config: scipy.stats.lognorm.ppf(config['random_draws'][(config['N']*1):(config['N']*2)], s=1.559712199148684, scale=0.5629872772819425)"
+# proportion of viral load suscpetible to second-phase decay (NNRTI)
+# scipy gamma in standardized form
+#mean = 0.025
+#std = mean*0.30
+#alpha = (mean / std)**2
+#a = alpha
+#beta = mean / std**2
+#scale = 1/beta
+#mean, std, alpha, beta, a, scale
+#(0.025, 0.0075, 11.111111111111112, 444.44444444444446, 11.111111111111112, 0.00225)
+a,"lambda data, params, config: scipy.stats.gamma.ppf(config['random_draws'][(config['N']*2):(config['N']*3)], a=11.111111111111112, scale=0.00225)"
+# first phase decay rate (from Andrade JID 2023)
+#mean = 0.60
+#std = 0.05
+#alpha = (mean / std)**2
+#a = alpha
+#beta = mean / std**2
+#scale = 1/beta
+#mean, std, alpha, beta, a, scale
+#(0.6, 0.05, 143.99999999999994, 239.99999999999994, 143.99999999999994, 0.0041666666666666675)
+d1,"lambda data, params, config: scipy.stats.gamma.ppf(config['random_draws'][(config['N']*3):(config['N']*4)], a=143.99999999999994, scale=0.0041666666666666675)"
+# second phase decay rate (from Andrade JID 2023)
+#mean = 0.07
+#std = 0.03
+#alpha = (mean / std)**2
+#a = alpha
+#beta = mean / std**2
+#scale = 1/beta
+#mean, std, alpha, beta, a, scale
+#(0.07, 0.03, 5.4444444444444455, 77.77777777777779, 5.4444444444444455, 0.012857142857142855)
+d2,"lambda data, params, config: scipy.stats.gamma.ppf(config['random_draws'][(config['N']*4):(config['N']*5)], a=5.4444444444444455, scale=0.012857142857142855)"
+# duration of washout period before rebound (NNRTI, from MA fit)
+tau,"lambda data, params, config: 11.98 * np.exp(scipy.stats.norm.ppf(config['random_draws'][(config['N']*5):(config['N']*6)], loc=0, scale=0.71))"
+# initial growth rate (from MA fit)
+r,"lambda data, params, config: 0.53 * np.exp(scipy.stats.norm.ppf(config['random_draws'][(config['N']*6):(config['N']*7)], loc=0, scale=0.34))"
+# acute viral load peak above set-point (from MA fit)
+delta_pp,"lambda data, params, config: 1 + 6.55*np.exp(scipy.stats.norm.ppf(config['random_draws'][(config['N']*1):(config['N']*2)], loc=0, scale=1.99))"
+# decay rate to set point (from MA fit)
+d3,"lambda data, params, config: 0.32 * np.exp(scipy.stats.norm.ppf(config['random_draws'][(config['N']*7):(config['N']*8)], loc=0, scale=1.67))"
+# adherence group (0: non-adherers, 1: transient-adherers, 2: adherers)
+g,"lambda data, params, config: np.repeat(1, config['N'])"
+# initial treatment status (0: not on tx, 1: on tx)
+x0,"lambda data, params, config: np.repeat(1, config['N'])"
+# iniitial viral load
+v0,"lambda data, params, config: config['rng'].choice(data['v0'], replace=True, size=config['N'])"
+
+

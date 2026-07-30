@@ -1,0 +1,17 @@
+param,definition
+#### CONFIG SETTINGS ####
+data,'output/rccs_r1_r20_vl_pairs_treated_uniq_llv.tsv'
+rng,"np.random.default_rng(seed=111)"
+N,1000
+dt,1
+t_max,365
+n_random_draws,8000
+out_file,'output/rccs_r1_r20_vl_pairs_treated_uniq_llv_fit'
+n_iter,25000
+theta_labels,"['omega2']"
+theta,"[1E-5]"
+# also used to draw initial values
+priors,"np.array([scipy.stats.uniform()])"
+proposals,"np.array([ lambda k, config: np.exp(config['rng'].normal(loc=np.log(k), scale=np.abs(np.log(k))*0.05))])"
+mode,'inference'
+

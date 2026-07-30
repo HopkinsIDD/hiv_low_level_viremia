@@ -1,0 +1,18 @@
+param,definition
+#### CONFIG SETTINGS ####
+data,'output/rccs_r1_r20_vl_pairs_treated_uniq_llv.tsv'
+rng,"np.random.default_rng(seed=np.random.randint(0, 1000000))"
+N,100
+dt,1
+t_mean,730
+t_scale,1E-10
+n_random_draws,800
+out_file,'sampled/rccs_r1_r20_vl_pairs_treated_uniq_llv_fit_mcmc_sampled_HERE_OMEGA_IDX'
+n_iter,1
+theta_labels,"['omega2']"
+theta,"[HERE_OMEGA]"
+# also used to draw initial values
+priors,"np.array([scipy.stats.expon(scale=0.1)])"
+proposals,"np.array([ lambda k, config: np.exp(config['rng'].normal(np.log(k), np.abs(np.log(k))*0.005))])"
+mode,'simulation'
+
