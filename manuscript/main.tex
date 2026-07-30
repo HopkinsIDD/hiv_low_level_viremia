@@ -34,7 +34,6 @@
 
 \usepackage{authblk} % Multiple authors
 % \usepackage[sorting=none,style=numeric-comp]{biblatex} % references
-% \addbibresource{references.bib}
 \usepackage[round,numbers,sort&compress]{natbib}
 \usepackage{multibib} % to have supplementary referencs
 %\usepackage[resetlabels]{multibib} % to have supplementary referencs
@@ -117,11 +116,7 @@
 \newpage
 
 \maketitle
-% Target Journal: Nature Medicine
-% Word Limit: 4000 (EXCLUDES METHODS)
-% Reference Limit: 60
-% Abstract: 150 words
-% Figures/Tables: 6
+
 
 \newpage
 
@@ -292,6 +287,9 @@ We utilized a stochastic simulation-based framework to describe the process of A
 
 Given these models of viral dynamics when on- and off antiretroviral therapy, we developed a stochastic, time-discrete model of individual-level treatment adherence and subsequent viral load dynamics. Individuals on treatment can cease treatment at a rate $\omega^{\text{cease}}$ per day, assumed to be constant across individuals and time. Viral load dynamics while on or off ART are assumed to be governed by the viral dynamics models described above. We first used this model to estimate the rate of treatment cessation ($\omega^{\text{cease}}$) based on paired viral load measurements in subsequent RCCS surveys from those who self-report treatment and have LLV at the preceding survey. We assume all individuals are actively on treatment at the initial survey. Model fitting was performed using Markov Chain Monte Carlo with 25,000 iterations, discarding the first 50\% as burn-in and uniform priors.  Finally, we used this model to simulate viral load trajectories at a daily resolution over a one year period from cohorts of individuals with LLV and on treatment at baseline. We considered rates of treatment cessation equal to that estimated from RCCS data and also higher  values corresponding to annual probability of treatment cessation from 25\% to 60\% in 5\% steps. With these simulated trajectories, we calculated the expected risk of onward transmission to a seronegative partner over defined time periods.
 %\printbibliography
+
+\subsection*{Data and code availability}
+All code to reproduce the analyses in this manuscript are available at \newline \href{https://github.com/HopkinsIDD/hiv_low_level_viremia}{https://github.com/HopkinsIDD/hiv\_low\_level\_viremia}. In accordance with UNAIDS guidelines, deep-sequencing reads can be requested from PANGEA-HIV at \href{mailto:pangea.data.enquiries@ndm.ox.ac.uk}{pangea.data.enquiries@ndm.ox.ac.uk}. Additional cohort data can be requested from the Rakai Health Sciences Program at \href{mailto:datarequests@rhsp.org}{datarequests@rhsp.org}. 
 
 \newpage
 
