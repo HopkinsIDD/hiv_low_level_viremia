@@ -1,0 +1,568 @@
+Namespace(copiesDat='data/not_shared/prox4.0_donor-noacute_recipient-exclusivelymonogamous_RCCSdata_R001_R019_all_copies_merged_d.tsv', periodDat='data/not_shared/prox4.0_donor-noacute_recipient-exclusivelymonogamous_RCCSdata_R001_R019_all_copies_merged_p_d.tsv', stan='stan/vl_trans.stan', transVL='prox', transForm='ve', vSuprMin=39.0, vSuprMax=40.0, vWin=4, linkedPeriods='output/couples_linkage_sum_simple.tsv', allowSaturation=1, c=1, label='ve_constrained_39_40')
+Fitting VL model to 9633 pre-treatment viral load measurements taken from 7105 individuals of which 8100 are above the LOD.
+Fitting transmission rate model to 111 seroconversions accumulated over 1701.9192334017796 couple-years of follow-up during 1217 coupling periods among 650 couples
+Using the proximal model for the relationship between viral load and transmission rate
+Assuming that viral load measurements are valid for a 4 year window around the observed date
+22:52:46 - cmdstanpy - INFO - Chain [1] start processing
+22:52:46 - cmdstanpy - INFO - Chain [2] start processing
+22:52:46 - cmdstanpy - INFO - Chain [4] start processing
+22:52:46 - cmdstanpy - INFO - Chain [3] start processing
+Chain [2] method = sample (Default)
+Chain [4] method = sample (Default)
+Chain [2] sampleChain [4] sample
+
+Chain [4] num_samples = 2500
+Chain [2] num_samples = 2500
+Chain [4] num_warmup = 2500Chain [2] num_warmup = 2500
+
+Chain [2] save_warmup = false (Default)Chain [4] save_warmup = false (Default)
+
+Chain [2] thin = 1 (Default)
+Chain [4] thin = 1 (Default)Chain [2] adapt
+
+Chain [2] engaged = true (Default)Chain [4] adapt
+
+Chain [2] gamma = 0.05 (Default)Chain [4] engaged = true (Default)
+
+Chain [2] delta = 0.8 (Default)
+Chain [2] kappa = 0.75 (Default)Chain [4] gamma = 0.05 (Default)
+
+Chain [4] delta = 0.8 (Default)
+Chain [2] t0 = 10 (Default)Chain [4] kappa = 0.75 (Default)
+
+Chain [2] init_buffer = 75 (Default)
+Chain [4] t0 = 10 (Default)
+Chain [4] init_buffer = 75 (Default)
+Chain [2] term_buffer = 50 (Default)
+Chain [4] term_buffer = 50 (Default)
+Chain [2] window = 25 (Default)Chain [4] window = 25 (Default)
+Chain [4] save_metric = false (Default)
+
+Chain [2] save_metric = false (Default)Chain [4] algorithm = hmc (Default)
+Chain [4] hmc
+Chain [4] engine = nuts (Default)
+Chain [4] nuts
+Chain [4] max_depth = 10 (Default)
+Chain [4] metric = diag_e (Default)
+
+Chain [4] metric_file =  (Default)
+Chain [2] algorithm = hmc (Default)
+Chain [4] stepsize = 1 (Default)Chain [2] hmc
+
+Chain [4] stepsize_jitter = 0 (Default)
+Chain [2] engine = nuts (Default)
+Chain [2] nuts
+Chain [2] max_depth = 10 (Default)
+Chain [2] metric = diag_e (Default)
+Chain [4] num_chains = 1 (Default)
+Chain [4] id = 4
+Chain [2] metric_file =  (Default)
+Chain [4] data
+Chain [2] stepsize = 1 (Default)
+Chain [4] file = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/vl9x68jl.jsonChain [2] stepsize_jitter = 0 (Default)
+
+Chain [2] num_chains = 1 (Default)
+Chain [2] id = 2Chain [4] init = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/r2fu1s77.json
+
+Chain [4] randomChain [2] data
+
+Chain [2] file = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/vl9x68jl.json
+Chain [2] init = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/r2fu1s77.json
+Chain [2] random
+Chain [4] seed = 62393
+Chain [4] outputChain [2] seed = 62393
+
+Chain [2] output
+Chain [2] file = /Users/michael/Dropbox/hiv_low_level_viremia/hiv_low_level_viremia_clean/output/ve_constrained_39_40/vl_trans-20260914225246_2.csv
+Chain [2] diagnostic_file =  (Default)
+Chain [2] refresh = 100 (Default)Chain [4] file = /Users/michael/Dropbox/hiv_low_level_viremia/hiv_low_level_viremia_clean/output/ve_constrained_39_40/vl_trans-20260914225246_4.csv
+
+Chain [4] diagnostic_file =  (Default)
+Chain [4] refresh = 100 (Default)Chain [2] sig_figs = 8 (Default)
+
+Chain [2] profile_file = profile.csv (Default)Chain [4] sig_figs = 8 (Default)
+Chain [4] profile_file = profile.csv (Default)
+Chain [2] save_cmdstan_config = false (Default)
+Chain [2] num_threads = 1 (Default)
+
+Chain [2] 
+Chain [4] save_cmdstan_config = false (Default)
+Chain [4] num_threads = 1 (Default)
+Chain [4] 
+Chain [1] method = sample (Default)
+Chain [1] sample
+Chain [1] num_samples = 2500
+Chain [1] num_warmup = 2500
+Chain [1] save_warmup = false (Default)
+Chain [1] thin = 1 (Default)
+Chain [1] adapt
+Chain [1] engaged = true (Default)
+Chain [1] gamma = 0.05 (Default)
+Chain [1] delta = 0.8 (Default)
+Chain [1] kappa = 0.75 (Default)
+Chain [1] t0 = 10 (Default)
+Chain [1] init_buffer = 75 (Default)
+Chain [1] term_buffer = 50 (Default)
+Chain [1] window = 25 (Default)
+Chain [1] save_metric = false (Default)
+Chain [1] algorithm = hmc (Default)
+Chain [1] hmc
+Chain [1] engine = nuts (Default)
+Chain [1] nuts
+Chain [1] max_depth = 10 (Default)
+Chain [1] metric = diag_e (Default)
+Chain [1] metric_file =  (Default)
+Chain [1] stepsize = 1 (Default)
+Chain [1] stepsize_jitter = 0 (Default)
+Chain [1] num_chains = 1 (Default)
+Chain [1] id = 1 (Default)
+Chain [1] data
+Chain [1] file = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/vl9x68jl.json
+Chain [1] init = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/r2fu1s77.json
+Chain [1] random
+Chain [1] seed = 62393
+Chain [1] output
+Chain [1] file = /Users/michael/Dropbox/hiv_low_level_viremia/hiv_low_level_viremia_clean/output/ve_constrained_39_40/vl_trans-20260914225246_1.csv
+Chain [1] diagnostic_file =  (Default)
+Chain [1] refresh = 100 (Default)
+Chain [1] sig_figs = 8 (Default)
+Chain [1] profile_file = profile.csv (Default)
+Chain [1] save_cmdstan_config = false (Default)
+Chain [1] num_threads = 1 (Default)
+Chain [1] 
+Chain [3] method = sample (Default)
+Chain [3] sample
+Chain [3] num_samples = 2500
+Chain [3] num_warmup = 2500
+Chain [3] save_warmup = false (Default)
+Chain [3] thin = 1 (Default)
+Chain [3] adapt
+Chain [3] engaged = true (Default)
+Chain [3] gamma = 0.05 (Default)
+Chain [3] delta = 0.8 (Default)
+Chain [3] kappa = 0.75 (Default)
+Chain [3] t0 = 10 (Default)
+Chain [3] init_buffer = 75 (Default)
+Chain [3] term_buffer = 50 (Default)
+Chain [3] window = 25 (Default)
+Chain [3] save_metric = false (Default)
+Chain [3] algorithm = hmc (Default)
+Chain [3] hmc
+Chain [3] engine = nuts (Default)
+Chain [3] nuts
+Chain [3] max_depth = 10 (Default)
+Chain [3] metric = diag_e (Default)
+Chain [3] metric_file =  (Default)
+Chain [3] stepsize = 1 (Default)
+Chain [3] stepsize_jitter = 0 (Default)
+Chain [3] num_chains = 1 (Default)
+Chain [3] id = 3
+Chain [3] data
+Chain [3] file = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/vl9x68jl.json
+Chain [3] init = /var/folders/ng/kyfdmtj54bbc_0vg2nh3lthr0000gn/T/tmpx6lacy0t/r2fu1s77.json
+Chain [3] random
+Chain [3] seed = 62393
+Chain [3] output
+Chain [3] file = /Users/michael/Dropbox/hiv_low_level_viremia/hiv_low_level_viremia_clean/output/ve_constrained_39_40/vl_trans-20260914225246_3.csv
+Chain [3] diagnostic_file =  (Default)
+Chain [3] refresh = 100 (Default)
+Chain [3] sig_figs = 8 (Default)
+Chain [3] profile_file = profile.csv (Default)
+Chain [3] save_cmdstan_config = false (Default)
+Chain [3] num_threads = 1 (Default)
+Chain [3] 
+Chain [2] 
+Chain [2] Gradient evaluation took 0.007929 seconds
+Chain [2] 1000 transitions using 10 leapfrog steps per transition would take 79.29 seconds.
+Chain [2] Adjust your expectations accordingly!
+Chain [2] 
+Chain [2] 
+Chain [4] 
+Chain [4] Gradient evaluation took 0.008277 seconds
+Chain [4] 1000 transitions using 10 leapfrog steps per transition would take 82.77 seconds.
+Chain [4] Adjust your expectations accordingly!
+Chain [4] 
+Chain [4] 
+Chain [1] 
+Chain [1] Gradient evaluation took 0.007633 seconds
+Chain [1] 1000 transitions using 10 leapfrog steps per transition would take 76.33 seconds.
+Chain [1] Adjust your expectations accordingly!
+Chain [1] 
+Chain [1] 
+Chain [2] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [2] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [2] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [2] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [2] 
+Chain [3] 
+Chain [3] Gradient evaluation took 0.009253 seconds
+Chain [3] 1000 transitions using 10 leapfrog steps per transition would take 92.53 seconds.
+Chain [3] Adjust your expectations accordingly!
+Chain [3] 
+Chain [3] 
+Chain [4] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [4] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [4] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [4] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [4] 
+Chain [1] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [1] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [1] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [1] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [1] 
+Chain [2] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [2] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [2] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [2] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [2] 
+Chain [3] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [3] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [3] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [3] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [3] 
+Chain [4] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [4] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [4] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [4] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [4] 
+Chain [1] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [1] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [1] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [1] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [1] 
+Chain [3] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [3] Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [3] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [3] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [3] 
+Chain [2] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [2] Exception: beta_lpdf: Random variable is nan, but must be in the interval [0, 1] (in 'vl_trans.stan', line 927, column 4 to column 125)
+Chain [2] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [2] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [2] 
+Chain [4] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [4] Exception: beta_lpdf: Random variable is nan, but must be in the interval [0, 1] (in 'vl_trans.stan', line 927, column 4 to column 125)
+Chain [4] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [4] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [4] 
+Chain [2] Iteration:    1 / 5000 [  0%]  (Warmup)
+Chain [4] Iteration:    1 / 5000 [  0%]  (Warmup)
+Chain [3] Iteration:    1 / 5000 [  0%]  (Warmup)
+Chain [1] Iteration:    1 / 5000 [  0%]  (Warmup)
+Chain [4] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [4] Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [4] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [4] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [4] 
+Chain [3] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [3] Exception: lognormal_lpdf: Scale parameter[1] is inf, but must be positive finite! (in 'vl_trans.stan', line 949, column 2 to line 952, column 54)
+Chain [3] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [3] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [3] 
+Chain [2] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [2] Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [2] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [2] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [2] 
+Chain [4] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [4] Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [4] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [4] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [4] 
+Chain [1] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [1] Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [1] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [1] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [1] 
+Chain [3] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [3] Exception: lognormal_lpdf: Scale parameter[1] is inf, but must be positive finite! (in 'vl_trans.stan', line 949, column 2 to line 952, column 54)
+Chain [3] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [3] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [3] 
+Chain [2] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [2] Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [2] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [2] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [2] 
+Chain [1] Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Chain [1] Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Chain [1] If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+Chain [1] but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+Chain [1] 
+Chain [2] Iteration:  100 / 5000 [  2%]  (Warmup)
+Chain [4] Iteration:  100 / 5000 [  2%]  (Warmup)
+Chain [1] Iteration:  100 / 5000 [  2%]  (Warmup)
+Chain [3] Iteration:  100 / 5000 [  2%]  (Warmup)
+Chain [2] Iteration:  200 / 5000 [  4%]  (Warmup)
+Chain [4] Iteration:  200 / 5000 [  4%]  (Warmup)
+Chain [1] Iteration:  200 / 5000 [  4%]  (Warmup)
+Chain [3] Iteration:  200 / 5000 [  4%]  (Warmup)
+Chain [4] Iteration:  300 / 5000 [  6%]  (Warmup)
+Chain [2] Iteration:  300 / 5000 [  6%]  (Warmup)
+Chain [1] Iteration:  300 / 5000 [  6%]  (Warmup)
+Chain [3] Iteration:  300 / 5000 [  6%]  (Warmup)
+Chain [2] Iteration:  400 / 5000 [  8%]  (Warmup)
+Chain [4] Iteration:  400 / 5000 [  8%]  (Warmup)
+Chain [1] Iteration:  400 / 5000 [  8%]  (Warmup)
+Chain [3] Iteration:  400 / 5000 [  8%]  (Warmup)
+Chain [2] Iteration:  500 / 5000 [ 10%]  (Warmup)
+Chain [4] Iteration:  500 / 5000 [ 10%]  (Warmup)
+Chain [1] Iteration:  500 / 5000 [ 10%]  (Warmup)
+Chain [3] Iteration:  500 / 5000 [ 10%]  (Warmup)
+Chain [2] Iteration:  600 / 5000 [ 12%]  (Warmup)
+Chain [4] Iteration:  600 / 5000 [ 12%]  (Warmup)
+Chain [1] Iteration:  600 / 5000 [ 12%]  (Warmup)
+Chain [3] Iteration:  600 / 5000 [ 12%]  (Warmup)
+Chain [4] Iteration:  700 / 5000 [ 14%]  (Warmup)
+Chain [2] Iteration:  700 / 5000 [ 14%]  (Warmup)
+Chain [1] Iteration:  700 / 5000 [ 14%]  (Warmup)
+Chain [3] Iteration:  700 / 5000 [ 14%]  (Warmup)
+Chain [4] Iteration:  800 / 5000 [ 16%]  (Warmup)
+Chain [2] Iteration:  800 / 5000 [ 16%]  (Warmup)
+Chain [3] Iteration:  800 / 5000 [ 16%]  (Warmup)
+Chain [1] Iteration:  800 / 5000 [ 16%]  (Warmup)
+Chain [4] Iteration:  900 / 5000 [ 18%]  (Warmup)
+Chain [2] Iteration:  900 / 5000 [ 18%]  (Warmup)
+Chain [3] Iteration:  900 / 5000 [ 18%]  (Warmup)
+Chain [1] Iteration:  900 / 5000 [ 18%]  (Warmup)
+Chain [2] Iteration: 1000 / 5000 [ 20%]  (Warmup)
+Chain [4] Iteration: 1000 / 5000 [ 20%]  (Warmup)
+Chain [3] Iteration: 1000 / 5000 [ 20%]  (Warmup)
+Chain [1] Iteration: 1000 / 5000 [ 20%]  (Warmup)
+Chain [4] Iteration: 1100 / 5000 [ 22%]  (Warmup)
+Chain [2] Iteration: 1100 / 5000 [ 22%]  (Warmup)
+Chain [3] Iteration: 1100 / 5000 [ 22%]  (Warmup)
+Chain [1] Iteration: 1100 / 5000 [ 22%]  (Warmup)
+Chain [4] Iteration: 1200 / 5000 [ 24%]  (Warmup)
+Chain [3] Iteration: 1200 / 5000 [ 24%]  (Warmup)
+Chain [2] Iteration: 1200 / 5000 [ 24%]  (Warmup)
+Chain [1] Iteration: 1200 / 5000 [ 24%]  (Warmup)
+Chain [4] Iteration: 1300 / 5000 [ 26%]  (Warmup)
+Chain [2] Iteration: 1300 / 5000 [ 26%]  (Warmup)
+Chain [3] Iteration: 1300 / 5000 [ 26%]  (Warmup)
+Chain [1] Iteration: 1300 / 5000 [ 26%]  (Warmup)
+Chain [4] Iteration: 1400 / 5000 [ 28%]  (Warmup)
+Chain [2] Iteration: 1400 / 5000 [ 28%]  (Warmup)
+Chain [3] Iteration: 1400 / 5000 [ 28%]  (Warmup)
+Chain [1] Iteration: 1400 / 5000 [ 28%]  (Warmup)
+Chain [4] Iteration: 1500 / 5000 [ 30%]  (Warmup)
+Chain [2] Iteration: 1500 / 5000 [ 30%]  (Warmup)
+Chain [3] Iteration: 1500 / 5000 [ 30%]  (Warmup)
+Chain [1] Iteration: 1500 / 5000 [ 30%]  (Warmup)
+Chain [4] Iteration: 1600 / 5000 [ 32%]  (Warmup)
+Chain [2] Iteration: 1600 / 5000 [ 32%]  (Warmup)
+Chain [3] Iteration: 1600 / 5000 [ 32%]  (Warmup)
+Chain [1] Iteration: 1600 / 5000 [ 32%]  (Warmup)
+Chain [4] Iteration: 1700 / 5000 [ 34%]  (Warmup)
+Chain [2] Iteration: 1700 / 5000 [ 34%]  (Warmup)
+Chain [3] Iteration: 1700 / 5000 [ 34%]  (Warmup)
+Chain [1] Iteration: 1700 / 5000 [ 34%]  (Warmup)
+Chain [4] Iteration: 1800 / 5000 [ 36%]  (Warmup)
+Chain [2] Iteration: 1800 / 5000 [ 36%]  (Warmup)
+Chain [3] Iteration: 1800 / 5000 [ 36%]  (Warmup)
+Chain [1] Iteration: 1800 / 5000 [ 36%]  (Warmup)
+Chain [4] Iteration: 1900 / 5000 [ 38%]  (Warmup)
+Chain [2] Iteration: 1900 / 5000 [ 38%]  (Warmup)
+Chain [3] Iteration: 1900 / 5000 [ 38%]  (Warmup)
+Chain [1] Iteration: 1900 / 5000 [ 38%]  (Warmup)
+Chain [4] Iteration: 2000 / 5000 [ 40%]  (Warmup)
+Chain [2] Iteration: 2000 / 5000 [ 40%]  (Warmup)
+Chain [3] Iteration: 2000 / 5000 [ 40%]  (Warmup)
+Chain [1] Iteration: 2000 / 5000 [ 40%]  (Warmup)
+Chain [4] Iteration: 2100 / 5000 [ 42%]  (Warmup)
+Chain [2] Iteration: 2100 / 5000 [ 42%]  (Warmup)
+Chain [3] Iteration: 2100 / 5000 [ 42%]  (Warmup)
+Chain [1] Iteration: 2100 / 5000 [ 42%]  (Warmup)
+Chain [4] Iteration: 2200 / 5000 [ 44%]  (Warmup)
+Chain [2] Iteration: 2200 / 5000 [ 44%]  (Warmup)
+Chain [3] Iteration: 2200 / 5000 [ 44%]  (Warmup)
+Chain [1] Iteration: 2200 / 5000 [ 44%]  (Warmup)
+Chain [4] Iteration: 2300 / 5000 [ 46%]  (Warmup)
+Chain [2] Iteration: 2300 / 5000 [ 46%]  (Warmup)
+Chain [3] Iteration: 2300 / 5000 [ 46%]  (Warmup)
+Chain [1] Iteration: 2300 / 5000 [ 46%]  (Warmup)
+Chain [4] Iteration: 2400 / 5000 [ 48%]  (Warmup)
+Chain [2] Iteration: 2400 / 5000 [ 48%]  (Warmup)
+Chain [3] Iteration: 2400 / 5000 [ 48%]  (Warmup)
+Chain [1] Iteration: 2400 / 5000 [ 48%]  (Warmup)
+Chain [4] Iteration: 2500 / 5000 [ 50%]  (Warmup)
+Chain [4] Iteration: 2501 / 5000 [ 50%]  (Sampling)
+Chain [2] Iteration: 2500 / 5000 [ 50%]  (Warmup)
+Chain [2] Iteration: 2501 / 5000 [ 50%]  (Sampling)
+Chain [3] Iteration: 2500 / 5000 [ 50%]  (Warmup)
+Chain [3] Iteration: 2501 / 5000 [ 50%]  (Sampling)
+Chain [1] Iteration: 2500 / 5000 [ 50%]  (Warmup)
+Chain [1] Iteration: 2501 / 5000 [ 50%]  (Sampling)
+Chain [3] Iteration: 2600 / 5000 [ 52%]  (Sampling)
+Chain [4] Iteration: 2600 / 5000 [ 52%]  (Sampling)
+Chain [2] Iteration: 2600 / 5000 [ 52%]  (Sampling)
+Chain [3] Iteration: 2700 / 5000 [ 54%]  (Sampling)
+Chain [1] Iteration: 2600 / 5000 [ 52%]  (Sampling)
+Chain [3] Iteration: 2800 / 5000 [ 56%]  (Sampling)
+Chain [4] Iteration: 2700 / 5000 [ 54%]  (Sampling)
+Chain [2] Iteration: 2700 / 5000 [ 54%]  (Sampling)
+Chain [3] Iteration: 2900 / 5000 [ 58%]  (Sampling)
+Chain [1] Iteration: 2700 / 5000 [ 54%]  (Sampling)
+Chain [3] Iteration: 3000 / 5000 [ 60%]  (Sampling)
+Chain [4] Iteration: 2800 / 5000 [ 56%]  (Sampling)
+Chain [2] Iteration: 2800 / 5000 [ 56%]  (Sampling)
+Chain [3] Iteration: 3100 / 5000 [ 62%]  (Sampling)
+Chain [1] Iteration: 2800 / 5000 [ 56%]  (Sampling)
+Chain [3] Iteration: 3200 / 5000 [ 64%]  (Sampling)
+Chain [4] Iteration: 2900 / 5000 [ 58%]  (Sampling)
+Chain [2] Iteration: 2900 / 5000 [ 58%]  (Sampling)
+Chain [1] Iteration: 2900 / 5000 [ 58%]  (Sampling)
+Chain [3] Iteration: 3300 / 5000 [ 66%]  (Sampling)
+Chain [3] Iteration: 3400 / 5000 [ 68%]  (Sampling)
+Chain [4] Iteration: 3000 / 5000 [ 60%]  (Sampling)
+Chain [2] Iteration: 3000 / 5000 [ 60%]  (Sampling)
+Chain [1] Iteration: 3000 / 5000 [ 60%]  (Sampling)
+Chain [3] Iteration: 3500 / 5000 [ 70%]  (Sampling)
+Chain [4] Iteration: 3100 / 5000 [ 62%]  (Sampling)
+Chain [3] Iteration: 3600 / 5000 [ 72%]  (Sampling)
+Chain [2] Iteration: 3100 / 5000 [ 62%]  (Sampling)
+Chain [1] Iteration: 3100 / 5000 [ 62%]  (Sampling)
+Chain [3] Iteration: 3700 / 5000 [ 74%]  (Sampling)
+Chain [4] Iteration: 3200 / 5000 [ 64%]  (Sampling)
+Chain [2] Iteration: 3200 / 5000 [ 64%]  (Sampling)
+Chain [3] Iteration: 3800 / 5000 [ 76%]  (Sampling)
+Chain [1] Iteration: 3200 / 5000 [ 64%]  (Sampling)
+Chain [3] Iteration: 3900 / 5000 [ 78%]  (Sampling)
+Chain [4] Iteration: 3300 / 5000 [ 66%]  (Sampling)
+Chain [2] Iteration: 3300 / 5000 [ 66%]  (Sampling)
+Chain [3] Iteration: 4000 / 5000 [ 80%]  (Sampling)
+Chain [1] Iteration: 3300 / 5000 [ 66%]  (Sampling)
+Chain [3] Iteration: 4100 / 5000 [ 82%]  (Sampling)
+Chain [4] Iteration: 3400 / 5000 [ 68%]  (Sampling)
+Chain [2] Iteration: 3400 / 5000 [ 68%]  (Sampling)
+Chain [3] Iteration: 4200 / 5000 [ 84%]  (Sampling)
+Chain [1] Iteration: 3400 / 5000 [ 68%]  (Sampling)
+Chain [3] Iteration: 4300 / 5000 [ 86%]  (Sampling)
+Chain [4] Iteration: 3500 / 5000 [ 70%]  (Sampling)
+Chain [2] Iteration: 3500 / 5000 [ 70%]  (Sampling)
+Chain [3] Iteration: 4400 / 5000 [ 88%]  (Sampling)
+Chain [1] Iteration: 3500 / 5000 [ 70%]  (Sampling)
+Chain [3] Iteration: 4500 / 5000 [ 90%]  (Sampling)
+Chain [4] Iteration: 3600 / 5000 [ 72%]  (Sampling)
+Chain [2] Iteration: 3600 / 5000 [ 72%]  (Sampling)
+Chain [3] Iteration: 4600 / 5000 [ 92%]  (Sampling)
+Chain [1] Iteration: 3600 / 5000 [ 72%]  (Sampling)
+Chain [3] Iteration: 4700 / 5000 [ 94%]  (Sampling)
+Chain [4] Iteration: 3700 / 5000 [ 74%]  (Sampling)
+Chain [2] Iteration: 3700 / 5000 [ 74%]  (Sampling)
+Chain [3] Iteration: 4800 / 5000 [ 96%]  (Sampling)
+Chain [1] Iteration: 3700 / 5000 [ 74%]  (Sampling)
+Chain [3] Iteration: 4900 / 5000 [ 98%]  (Sampling)
+Chain [4] Iteration: 3800 / 5000 [ 76%]  (Sampling)
+Chain [2] Iteration: 3800 / 5000 [ 76%]  (Sampling)
+Chain [3] Iteration: 5000 / 5000 [100%]  (Sampling)
+Chain [3] 
+Chain [3] Elapsed Time: 1390.05 seconds (Warm-up)
+Chain [3] 611.057 seconds (Sampling)
+Chain [3] 2001.11 seconds (Total)
+Chain [3] 
+Chain [3] 
+23:26:08 - cmdstanpy - INFO - Chain [3] done processing
+Chain [1] Iteration: 3800 / 5000 [ 76%]  (Sampling)
+Chain [4] Iteration: 3900 / 5000 [ 78%]  (Sampling)
+Chain [2] Iteration: 3900 / 5000 [ 78%]  (Sampling)
+Chain [1] Iteration: 3900 / 5000 [ 78%]  (Sampling)
+Chain [4] Iteration: 4000 / 5000 [ 80%]  (Sampling)
+Chain [2] Iteration: 4000 / 5000 [ 80%]  (Sampling)
+Chain [1] Iteration: 4000 / 5000 [ 80%]  (Sampling)
+Chain [4] Iteration: 4100 / 5000 [ 82%]  (Sampling)
+Chain [2] Iteration: 4100 / 5000 [ 82%]  (Sampling)
+Chain [1] Iteration: 4100 / 5000 [ 82%]  (Sampling)
+Chain [4] Iteration: 4200 / 5000 [ 84%]  (Sampling)
+Chain [2] Iteration: 4200 / 5000 [ 84%]  (Sampling)
+Chain [1] Iteration: 4200 / 5000 [ 84%]  (Sampling)
+Chain [4] Iteration: 4300 / 5000 [ 86%]  (Sampling)
+Chain [2] Iteration: 4300 / 5000 [ 86%]  (Sampling)
+Chain [1] Iteration: 4300 / 5000 [ 86%]  (Sampling)
+Chain [4] Iteration: 4400 / 5000 [ 88%]  (Sampling)
+Chain [2] Iteration: 4400 / 5000 [ 88%]  (Sampling)
+Chain [1] Iteration: 4400 / 5000 [ 88%]  (Sampling)
+Chain [4] Iteration: 4500 / 5000 [ 90%]  (Sampling)
+Chain [2] Iteration: 4500 / 5000 [ 90%]  (Sampling)
+Chain [1] Iteration: 4500 / 5000 [ 90%]  (Sampling)
+Chain [4] Iteration: 4600 / 5000 [ 92%]  (Sampling)
+Chain [2] Iteration: 4600 / 5000 [ 92%]  (Sampling)
+Chain [1] Iteration: 4600 / 5000 [ 92%]  (Sampling)
+Chain [4] Iteration: 4700 / 5000 [ 94%]  (Sampling)
+Chain [2] Iteration: 4700 / 5000 [ 94%]  (Sampling)
+Chain [1] Iteration: 4700 / 5000 [ 94%]  (Sampling)
+Chain [4] Iteration: 4800 / 5000 [ 96%]  (Sampling)
+Chain [2] Iteration: 4800 / 5000 [ 96%]  (Sampling)
+Chain [1] Iteration: 4800 / 5000 [ 96%]  (Sampling)
+Chain [4] Iteration: 4900 / 5000 [ 98%]  (Sampling)
+Chain [2] Iteration: 4900 / 5000 [ 98%]  (Sampling)
+Chain [1] Iteration: 4900 / 5000 [ 98%]  (Sampling)
+Chain [4] Iteration: 5000 / 5000 [100%]  (Sampling)
+Chain [4] 
+Chain [4] Elapsed Time: 1378.08 seconds (Warm-up)
+Chain [4] 1182.44 seconds (Sampling)
+Chain [4] 2560.51 seconds (Total)
+Chain [4] 
+Chain [4] 
+23:35:27 - cmdstanpy - INFO - Chain [4] done processing
+Chain [2] Iteration: 5000 / 5000 [100%]  (Sampling)
+Chain [2] 
+Chain [2] Elapsed Time: 1380.62 seconds (Warm-up)
+Chain [2] 1184.45 seconds (Sampling)
+Chain [2] 2565.07 seconds (Total)
+Chain [2] 
+Chain [2] 
+23:35:32 - cmdstanpy - INFO - Chain [2] done processing
+Chain [1] Iteration: 5000 / 5000 [100%]  (Sampling)
+Chain [1] 
+Chain [1] Elapsed Time: 1396 seconds (Warm-up)
+Chain [1] 1179.5 seconds (Sampling)
+Chain [1] 2575.5 seconds (Total)
+Chain [1] 
+Chain [1] 
+23:35:42 - cmdstanpy - INFO - Chain [1] done processing
+23:35:42 - cmdstanpy - WARNING - Non-fatal error during sampling:
+Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: beta_lpdf: Random variable is nan, but must be in the interval [0, 1] (in 'vl_trans.stan', line 927, column 4 to column 125)
+	Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: lognormal_lpdf: Scale parameter[1] is inf, but must be positive finite! (in 'vl_trans.stan', line 949, column 2 to line 952, column 54)
+	Exception: lognormal_lpdf: Scale parameter[1] is inf, but must be positive finite! (in 'vl_trans.stan', line 949, column 2 to line 952, column 54)
+Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Scale parameter is 0, but must be positive! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: beta_lpdf: Random variable is nan, but must be in the interval [0, 1] (in 'vl_trans.stan', line 927, column 4 to column 125)
+	Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+	Exception: normal_lcdf: Location parameter is inf, but must be finite! (in 'vl_trans.stan', line 517, column 6 to column 95)
+level_1             0.025         0.250         0.500         0.750         0.975
+variable                                                                         
+lp__        -33701.044825 -33459.607750 -33334.334000 -33216.821500 -32995.897200
+mu_0             4.085602      4.100839      4.108412      4.116077      4.130496
+omega_mu         0.640120      0.656345      0.665097      0.673495      0.689750
+sigma_0          0.502380      0.515781      0.522682      0.529425      0.543266
+omega_sigma      0.194883      0.233050      0.253272      0.272796      0.307843
+fnr              0.025023      0.031251      0.034657      0.038197      0.045283
+txr              0.113257      0.121300      0.125484      0.129786      0.137742
+theta_un_tx      0.449697      0.515093      0.547913      0.579127      0.637941
+mu_un_tx         2.533549      2.888276      3.004758      3.098399      3.250050
+sigma_un_tx      0.539344      0.643587      0.712143      0.791335      0.998956
+theta_tx         0.879154      0.883669      0.886027      0.888388      0.892399
+mu_tx            3.269489      3.356739      3.398202      3.436324      3.504085
+sigma_tx         1.074558      1.123305      1.150183      1.178457      1.236204
+use_param1       0.001053      0.001297      0.001446      0.001622      0.002039
+use_param2       0.000065      0.000123      0.000174      0.000252      0.000584
+use_param3       1.000000      1.000000      1.000000      1.000000      1.000000
+beta_extra       0.005500      0.008600      0.010696      0.013038      0.018378
+beta_tx          0.000341      0.003244      0.006794      0.011467      0.022883
+Estimated transmission rate with a viral load of 2.3 log10 copies/mL:
+     0.025     0.250     0.500     0.750     0.975
+0  0.00255  0.004095  0.005324  0.007135  0.013804
+Estimated transmission rate with a viral load of 3 log10 copies/mL:
+      0.025    0.250     0.500     0.750     0.975
+0  0.012418  0.01948  0.024882  0.032351  0.055807
