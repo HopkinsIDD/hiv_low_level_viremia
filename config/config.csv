@@ -1,26 +1,26 @@
 color_base,"#eaeaea"
-color_hiv-,"#eaeaea"
-color_bd_copies,"#ebbdbd"
-color_40_200_copies,"#d77c7c"
-color_200_1000_copies,"#a44949"
-color_1000_inf_copies,"#522424"
-color_monogamous,"steelblue"
-color_vl,indianred
-color_seroconversion,"#7860c9"
-color_hiv+,"#C57094"
-color_xlinked,"yellowgreen"
-color_unlinked,"peru"
-color_trans_rate_mid,#98186A
-color_trans_rate_50,#cb8bb4
-color_trans_rate_95,#ead0e1
-color_rr_intra_extra_mid,#189846
-color_rr_intra_extra_50,#8bcba2
-color_rr_intra_extra_95,#d0eada
+color_hiv-,"white"
+color_0_200_copies,"#86C8BC"
+color_200_1000_copies,"#FF9E1B"
+color_0_1000_copies,"#fcf3cc"
+color_1000_inf_copies,"#A6192E"
+color_index,"#86C8BC"
+color_seroconversion,"#A45C98"
+color_seroconversion_unlinked,"#e3cee0"
+color_200_1000_copies_unlinked,"#ffe1ba"
+color_seroconversion_200_1000_copies,"#9E8FB0"
+color_hiv+,"#848484"
+color_trans_rate_mid,#002d72
+color_trans_rate_50,#7f96b8
+color_trans_rate_95,#ccd5e2
+color_rr_intra_extra_mid,#006672
+color_rr_intra_extra_50,#7fb2b8
+color_rr_intra_extra_95,#cce0e2
 label_hiv-,HIV-
 label_hiv+,HIV+
-label_bd_copies,"<40 copies/mL"
-label_40_200_copies,"40-200 copies/mL"
+label_0_200_copies,"<200 copies/mL"
 label_200_1000_copies,"200-1,000 copies/mL"
+label_0_1000_copies,"<1,000 copies/mL"
 label_1000_inf_copies,">1,000 copies/mL"
-breaks_copies,"-1;40;200;1000;inf"
+breaks_copies,"-1;200;1000;inf"
 

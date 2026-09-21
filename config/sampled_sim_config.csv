@@ -1,6 +1,6 @@
 param,definition
 #### CONFIG SETTINGS ####
-data,'output/rccs_r1_r20_vl_pairs_treated_uniq_llv.tsv'
+data,'data/RCCSdata_R001_R020_tx_vl_pairs_uniq_llv.tsv'
 rng,"np.random.default_rng(seed=np.random.randint(0, 1000000))"
 N,100
 dt,1

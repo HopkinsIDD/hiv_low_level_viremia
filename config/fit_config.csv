@@ -1,13 +1,13 @@
 param,definition
 #### CONFIG SETTINGS ####
-data,'output/rccs_r1_r20_vl_pairs_treated_uniq_llv.tsv'
-rng,"np.random.default_rng(seed=111)"
+data,'data/RCCSdata_R001_R020_tx_vl_pairs_uniq_llv.tsv'
+rng,"np.random.default_rng(seed=1)"
 N,1000
 dt,1
 t_max,365
 n_random_draws,8000
-out_file,'output/rccs_r1_r20_vl_pairs_treated_uniq_llv_fit'
-n_iter,25000
+out_file,'output/est_rebound/RCCSdata_R001_R020_tx_vl_pairs_uniq_llv'
+n_iter,10000
 theta_labels,"['omega2']"
 theta,"[1E-5]"
 # also used to draw initial values

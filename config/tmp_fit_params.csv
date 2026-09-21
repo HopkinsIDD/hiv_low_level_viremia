@@ -5,7 +5,7 @@ omega,"lambda data, params, config: np.array([0,params['omega2']])"
 # pre-treatment set point viral load
 sp,"lambda data, params, config: scipy.stats.norm.ppf(config['random_draws'][(config['N']*0):(config['N']*1)], loc=4.1, scale=0.7)"
 # factor by which sp is reduced post-rebound
-delta_rp,"lambda data, params, config: scipy.stats.lognorm.ppf(config['random_draws'][(config['N']*1):(config['N']*2)], s=1.559712199148684, scale=0.5629872772819425)"
+delta_rp,"lambda data, params, config: scipy.stats.lognorm.ppf(config['random_draws'][(config['N']*1):(config['N']*2)], s=1.5597122112716055, scale=0.5629872811265125)"
 # proportion of viral load suscpetible to second-phase decay (NNRTI)
 # scipy gamma in standardized form
 #mean = 0.025
@@ -49,7 +49,7 @@ d3,"lambda data, params, config: 0.32 * np.exp(scipy.stats.norm.ppf(config['rand
 g,"lambda data, params, config: np.repeat(1, config['N'])"
 # initial treatment status (0: not on tx, 1: on tx)
 x0,"lambda data, params, config: np.repeat(1, config['N'])"
-# iniitial viral load
+# initial viral load
 v0,"lambda data, params, config: config['rng'].choice(data['v0'], replace=True, size=config['N'])"
 
 

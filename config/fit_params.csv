@@ -49,7 +49,7 @@ d3,"lambda data, params, config: 0.32 * np.exp(scipy.stats.norm.ppf(config['rand
 g,"lambda data, params, config: np.repeat(1, config['N'])"
 # initial treatment status (0: not on tx, 1: on tx)
 x0,"lambda data, params, config: np.repeat(1, config['N'])"
-# iniitial viral load
+# initial viral load
 v0,"lambda data, params, config: config['rng'].choice(data['v0'], replace=True, size=config['N'])"
 
 
